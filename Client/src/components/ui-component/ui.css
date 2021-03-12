@@ -1,0 +1,13 @@
+.FollowIcon {
+  border: solid 1px gray;
+  border-radius: 20px;
+  margin-top: 6px;
+  cursor: pointer;
+}
+
+.cardDiv {
+  border: white solid 1px;
+  border-radius: 20px;
+  background-color: black;
+  margin-top: 10px;
+}
