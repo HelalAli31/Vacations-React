@@ -23,6 +23,7 @@ async function verifyJWT(token) {
   return new Promise((resolve, reject) => {
     jwt.verify(token, process.env.SECRET, function (err, decoded) {
       if (err) {
+        console.log(err, err.message);
         logger.error(err);
         reject(err);
       }

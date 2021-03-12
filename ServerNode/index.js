@@ -12,7 +12,7 @@ api.use(bodyParser.json());
 
 api.use("/auth", auth);
 api.use("/vacations", vacations);
-api.use("/vacations/Admin", Admin);
+api.use("/Admin/vacations", Admin);
 
 api.use((error, req, res, next) => {
   console.log("in error handler...");

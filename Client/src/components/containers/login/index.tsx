@@ -24,12 +24,9 @@ export default function Login() {
     console.log("======", data);
     if (data.firstName) {
       localStorage.setItem("user", JSON.stringify(data));
-
+      localStorage.setItem("token", JSON.stringify(data.token));
       history.push("/Home");
     } else alert(data);
-    data.token
-      ? localStorage.setItem("token", JSON.stringify(data.token))
-      : console.log("no token");
   };
 
   return (

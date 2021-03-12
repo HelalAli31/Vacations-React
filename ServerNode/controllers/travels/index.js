@@ -1,4 +1,5 @@
 const connection = require("../../database/index");
+const moment = require("moment");
 
 async function getFollowersForTravel(travel_id) {
   const query = `SELECT * FROM travels_db.followers WHERE travel_id = ${travel_id};`;
@@ -40,21 +41,35 @@ async function UpdateFollowersAfterDelete(travel_id, type) {
   return rows.affectedRows;
 }
 
-async function EditTravel(obj, id) {
-  console.log(obj);
-  const query = `UPDATE travels_db.travels
-  SET
-  id = ${id},
-  Description = "uu",
-  WhereTo = "uu",
-  Image = "uu",
-  From = CAST("${obj.From} 00:00:00" AS DATETIME),
-  To =  CAST("${obj.To} 00:00:00" AS DATETIME),
-  Price = 12
-  WHERE id = ${id};`;
-
-  const [rows] = await (await connection()).execute(query);
+async function editVacation(vacationDetails, vacationId) {
+  const { destination, description, startAt, endAt, price } = vacationDetails;
+  const values = [destination, description, startAt, endAt, price, vacationId];
+  const updateQuery =
+    "UPDATE `vacation` SET `destination` = ?, `description` = ?, `startAt` = ?, `endAt` = ?, `price` = ? WHERE (`id` = ?);  ";
+  const [rows] = await (await connection()).execute(updateQuery, values);
   return rows.affectedRows;
+}
+
+async function EditTravel(vacationDetails, id) {
+  const { Description, WhereTo, Image, From, To, Price } = vacationDetails;
+  const values = [Description, WhereTo, Image, From, To, Price, id];
+  const updateQuery =
+    "UPDATE `travels` SET `Description` = ?, `WhereTo` = ?,`Image`=? ,`From` = ?, `To` = ?, `Price` = ? WHERE (`id` = ?);  ";
+  const [rows] = await (await connection()).execute(updateQuery, values);
+  return rows.affectedRows;
+  // const query = `UPDATE travels_db.travels
+  // SET
+  // id = ${id},
+  // Description = "u",
+  // WhereTo = "uu",
+  // Image = "uu",
+  // From =${moment(obj.From).format()},
+  // To = ${moment(obj.From).format()} ,
+  // Price = 12
+  // WHERE id = ${id};`;
+
+  // const [rows] = await (await connection()).execute(query);
+  // return rows.affectedRows;
 }
 
 module.exports = {

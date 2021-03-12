@@ -97,37 +97,24 @@ function MyVerticallyCenteredModal(props: any) {
           </div>
           <div className="form-group">
             <label>Start Date:</label>
-            <input
-              className="form-control"
-              name="StartAt"
-              aria-describedby="emailHelp"
-              onChange={handleOnchange}
-            />
 
-            {/* <Form.Group controlId="dob">
+            <Form.Group controlId="dob">
               <Form.Control
                 type="date"
                 name="StartAt"
                 onChange={handleOnchange}
               />
-            </Form.Group> */}
+            </Form.Group>
           </div>
           <div className="form-group">
             <label>End Date:</label>
-            {/* <Form.Group controlId="dob">
+            <Form.Group controlId="dob">
               <Form.Control
                 type="date"
                 name="EndAt"
                 onChange={handleOnchange}
               />
-            </Form.Group> */}
-
-            <input
-              className="form-control"
-              name="EndAt"
-              aria-describedby="emailHelp"
-              onChange={handleOnchange}
-            />
+            </Form.Group>
           </div>
           <div className="form-group">
             <label>Price:</label>

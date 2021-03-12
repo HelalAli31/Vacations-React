@@ -10,6 +10,7 @@ export default function TravelsList() {
   const travels = useSelector((state: IState) => state.travels);
 
   useEffect(() => {
+    console.log(travels);
     getTravelsAction();
   }, []);
 
