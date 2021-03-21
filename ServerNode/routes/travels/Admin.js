@@ -2,7 +2,7 @@ const express = require("express");
 const router = express.Router();
 const { verifyJWT } = require("../../controllers/JWT/jwt");
 const logger = require("../../logger");
-const { DeleteTravel, EditTravel } = require("../../controllers/travels/index");
+const { DeleteTravel, EditTravel,AddTravel } = require("../../controllers/travels/index");
 
 const getValidationFunction = require("../../validations/auth_Login.js");
 
@@ -32,6 +32,22 @@ router.post("/DeleteTravel", async (req, res, next) => {
     logger.info(`travel id=${id} has just deleted`);
     res.json("travel deleted");
   } catch (ex) {
+    logger.error(ex);
+    res.send(ex);
+  }
+});
+
+router.post("/AddVacations", async (req, res, next) => {
+  console.log("AddVacations");
+  console.log("body", req.body);
+  try {
+    const result = await AddTravel(req.body);
+    if (result) {
+      logger.info(`${req.body.id} travel has added now`);
+      res.json("travel Added");
+    }
+  } catch (ex) {
+    console.log(ex);
     logger.error(ex);
     res.send(ex);
   }

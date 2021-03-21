@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { Form, Col, Button } from "react-bootstrap";
+import { useHistory } from "react-router";
 import { registerUser } from "../../../store/async-actions/register";
 
 export interface IUserDetails {
@@ -11,6 +12,7 @@ export interface IUserDetails {
 }
 
 export function Register() {
+  const history = useHistory();
   const registrationHeader: string = "Register";
   const user: IUserDetails = {
     firstName: "",
@@ -90,6 +92,16 @@ export function Register() {
 
           <Button variant="primary" onClick={sendUserDetails} type="button">
             regist
+          </Button>
+          <Button
+            style={{ marginLeft: "10px" }}
+            variant="primary"
+            onClick={() => {
+              history.push("/login");
+            }}
+            type="button"
+          >
+            login
           </Button>
         </Form>
       </div>

@@ -15,7 +15,7 @@ export default function TravelsList() {
   }, []);
 
   return (
-    <div className="container">
+    <div>
       <div className="row">
         {travels.map((travel) => {
           return (

@@ -6,7 +6,7 @@ export default async function EditTravelService(EditedToObj: any, id: number) {
   const token = localStorage.getItem("token");
 
   const { data } = await axios.post(
-    `${API_URL}/Admin/EditTravel?id=${id}`,
+    `${API_URL}/EditTravel?id=${id}`,
     EditedToObj,
     {
       headers: {
@@ -14,12 +14,6 @@ export default async function EditTravelService(EditedToObj: any, id: number) {
       },
     }
   );
-
-  // const { data } = await axios.post(`${API_URL}/EditTravel?${id}`, {
-  //   headers: { authorization: localStorage.getItem("token") },
-  //   EditedToObj,
-  // });
-
   alert(data);
   return data;
 }

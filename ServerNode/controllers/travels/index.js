@@ -57,19 +57,15 @@ async function EditTravel(vacationDetails, id) {
     "UPDATE `travels` SET `Description` = ?, `WhereTo` = ?,`Image`=? ,`From` = ?, `To` = ?, `Price` = ? WHERE (`id` = ?);  ";
   const [rows] = await (await connection()).execute(updateQuery, values);
   return rows.affectedRows;
-  // const query = `UPDATE travels_db.travels
-  // SET
-  // id = ${id},
-  // Description = "u",
-  // WhereTo = "uu",
-  // Image = "uu",
-  // From =${moment(obj.From).format()},
-  // To = ${moment(obj.From).format()} ,
-  // Price = 12
-  // WHERE id = ${id};`;
+}
 
-  // const [rows] = await (await connection()).execute(query);
-  // return rows.affectedRows;
+async function AddTravel(vacationDetails) {
+  const { Description, WhereTo, Image, From, To, Price, id } = vacationDetails;
+  const values = [id, Description, WhereTo, Image, From, To, Price];
+  const updateQuery =
+    "INSERT INTO travels_db.travels (`id`,`Description`, `WhereTo`, `Image`, `From`, `To`, `Price`) VALUES(?,?,?,?,?,?,?)";
+  const [rows] = await (await connection()).execute(updateQuery, values);
+  return rows.affectedRows;
 }
 
 module.exports = {
@@ -80,4 +76,5 @@ module.exports = {
   getFollowersForTravel,
   DeleteTravel,
   EditTravel,
+  AddTravel,
 };

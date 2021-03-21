@@ -5,6 +5,7 @@ import EditIcon from "@material-ui/icons/Edit";
 import { EditTravelAction } from "../../store/async-actions/EditTravelAction";
 import moment from "moment";
 import { Form } from "react-bootstrap";
+import { getTravelsAction } from "../../store/async-actions/getTravelsAction";
 
 function MyVerticallyCenteredModal(props: any) {
   const { TravelName, id } = props;
@@ -31,7 +32,7 @@ function MyVerticallyCenteredModal(props: any) {
     setterFunction(e.target.value);
   };
 
-  const handleEdit = () => {
+  const handleEdit = async () => {
     const EditedToObj = {
       WhereTo: Name,
       Price: Price,
@@ -41,7 +42,8 @@ function MyVerticallyCenteredModal(props: any) {
       To: EndAt,
     };
     console.log(EditedToObj);
-    EditTravelAction(EditedToObj, id);
+    await EditTravelAction(EditedToObj, id);
+    await getTravelsAction();
   };
 
   function validateForm() {

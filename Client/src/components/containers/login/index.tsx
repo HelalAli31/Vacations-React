@@ -1,32 +1,29 @@
 import React, { useState } from "react";
 import Form from "react-bootstrap/Form";
 import Button from "react-bootstrap/Button";
-
-import axios from "axios";
-
-import "../login/index.css";
-
 import { useHistory } from "react-router-dom";
 
+import "../login/index.css";
+import { LoginActionService } from "../../../store/services/loginService";
+
 export default function Login() {
+  const history = useHistory();
   const [userName, setUserName] = useState("");
   const [password, setPassword] = useState("");
-  const history = useHistory();
 
   function validateForm() {
     return userName.length > 0 && password.length > 0;
   }
 
   const handlebutton = async () => {
-    const BASE_URL = `http://localhost:5000`;
-    const API_URL = `${BASE_URL}/auth/login`;
-    const { data } = await axios.post(`${API_URL}`, { userName, password });
-    console.log("======", data);
-    if (data.firstName) {
-      localStorage.setItem("user", JSON.stringify(data));
-      localStorage.setItem("token", JSON.stringify(data.token));
-      history.push("/Home");
-    } else alert(data);
+    const result = await LoginActionService(userName, password);
+    if (result.firstName) {
+      localStorage.setItem("user", JSON.stringify(result));
+      localStorage.setItem("token", JSON.stringify(result.token));
+      history.push("/home");
+    } else {
+      alert(result);
+    }
   };
 
   return (
@@ -70,6 +67,16 @@ export default function Login() {
           onClick={handlebutton}
         >
           Login
+        </Button>
+        <Button
+          block
+          size="lg"
+          type="button"
+          onClick={() => {
+            history.push("/RegisterPage");
+          }}
+        >
+          Register
         </Button>
       </Form>
     </div>

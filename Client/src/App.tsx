@@ -5,6 +5,8 @@ import { BrowserRouter as Router, Link, Switch, Route } from "react-router-dom";
 import Login from "./components/containers/login";
 import { Register } from "./components/containers/register";
 import HomePage from "./components/containers/homepage";
+import AddVacationComponent from "./components/ui-component/AddVacationComponent";
+import SingleTravelCard from "./components/ui-component/singlePageUp";
 
 function App() {
   return (
@@ -21,7 +23,17 @@ function App() {
               <HomePage />
             </div>
           </Route>
+          <Route key="AddVacation" path="/a">
+            <div>
+              <SingleTravelCard />
+            </div>
+          </Route>
 
+          <Route key="AddVacation" path="/AddVacation">
+            <div>
+              <AddVacationComponent />
+            </div>
+          </Route>
           <Route key="LoginPage" path="/">
             <header className="App-header">
               <Login />

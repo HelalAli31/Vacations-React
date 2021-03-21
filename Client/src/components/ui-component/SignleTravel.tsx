@@ -9,10 +9,13 @@ import GetMoreInfoComponent from "./GetMoreInfoComponent";
 import "./ui.css";
 import { ClearTravelAction } from "../../store/async-actions/ClearTravelAction";
 import EditModalComponent from "./EditIconComponent";
+import { useSelector } from "react-redux";
+import { IState } from "../../store/reducers/mainReducers";
+import { BsFillCaretDownFill, BsFillCaretUpFill } from "react-icons/bs";
 
 export default function SingleTravel(props: any) {
   const { travel } = props;
-
+  const userTypeStore = useSelector((state: IState) => state.userType);
   const [FollowState, setFollowState] = useState(true);
 
   let LocalStorageUser: any = localStorage.getItem("user");
@@ -57,6 +60,14 @@ export default function SingleTravel(props: any) {
     );
   };
 
+  const IconMoreInfoComponent = () => {
+    return isAdditionalInfoOpened ? (
+      <BsFillCaretUpFill />
+    ) : (
+      <BsFillCaretDownFill />
+    );
+  };
+
   const handleClear = async () => {
     await ClearTravelAction(travel.id);
     await getTravelsAction();
@@ -78,15 +89,15 @@ export default function SingleTravel(props: any) {
       <Image
         src={travel.Image}
         rounded
-        style={{ width: "200px", height: "150px" }}
+        style={{ width: "300px", height: "200px" }}
       />
       <h2>{travel.Price}$</h2>
       <button
-        className={"btn btn-primary col-6"}
+        className={"col-6"}
+        style={{ backgroundColor: "rgb(230, 209, 226)", border: "none" }}
         onClick={additionalInfoAction}
       >
-        {" "}
-        More Info{" "}
+        {IconMoreInfoComponent()}
       </button>
       {showAdditionalInfo()}
     </div>
