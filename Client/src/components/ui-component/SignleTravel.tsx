@@ -11,11 +11,15 @@ import { ClearTravelAction } from "../../store/async-actions/ClearTravelAction";
 import EditModalComponent from "./EditIconComponent";
 import { useSelector } from "react-redux";
 import { IState } from "../../store/reducers/mainReducers";
-import { BsFillCaretDownFill, BsFillCaretUpFill } from "react-icons/bs";
+import ArrowDownwardIcon from "@material-ui/icons/ArrowDownward";
+import FacebookIcon from "@material-ui/icons/Facebook";
+import ArrowUpwardIcon from "@material-ui/icons/ArrowUpward";
 
 export default function SingleTravel(props: any) {
   const { travel } = props;
   const userTypeStore = useSelector((state: IState) => state.userType);
+  console.log("userTypeStore", userTypeStore);
+
   const [FollowState, setFollowState] = useState(true);
 
   let LocalStorageUser: any = localStorage.getItem("user");
@@ -34,37 +38,45 @@ export default function SingleTravel(props: any) {
   };
 
   const IconsSide = () => {
-    return user.userType === "user" ? (
-      <h4 className="col-2 FollowIcon" onClick={handleFollow}>
-        F
+    return userTypeStore === "user" ? (
+      <h4
+        className="col-2 FollowIcon"
+        style={{ marginLeft: "90px" }}
+        onClick={handleFollow}
+      >
+        <FacebookIcon />
       </h4>
     ) : (
-      <h3>{EditAndDeleteIcons()}</h3>
+      <div className="row">{EditAndDeleteIcons()}</div>
     );
   };
 
   const EditAndDeleteIcons = () => {
     return (
-      <div>
-        <div>
-          {" "}
-          <h3 style={{ cursor: "pointer" }} onClick={handleClear}>
-            <ClearIcon />
-          </h3>
-          <h3>
-            {" "}
-            <EditModalComponent {...travel} />
-          </h3>
-        </div>
+      <div className="row">
+        <h3
+          className="col-1"
+          style={{ marginLeft: "80px", cursor: "pointer" }}
+          onClick={handleClear}
+        >
+          <ClearIcon />
+        </h3>
+        <h3 className="col-1" style={{ cursor: "pointer", color: "red" }}>
+          <EditModalComponent {...travel} />
+        </h3>
       </div>
     );
   };
 
   const IconMoreInfoComponent = () => {
     return isAdditionalInfoOpened ? (
-      <BsFillCaretUpFill />
+      <span className="MoreInfoButton">
+        <ArrowUpwardIcon />
+      </span>
     ) : (
-      <BsFillCaretDownFill />
+      <span className="MoreInfoButton">
+        <ArrowDownwardIcon />
+      </span>
     );
   };
 
@@ -80,26 +92,32 @@ export default function SingleTravel(props: any) {
   };
 
   return (
-    <div key={travel.id} className="cardDiv">
-      <div className="row">
-        <h3 className="col-9">{travel.WhereTo}</h3>
-        {IconsSide()}
-      </div>
+    <div className="hh">
+      <div className=" TravelCard card ">
+        <div className="row">
+          <h2 className="col-6 TravelName">{travel.WhereTo}</h2>
+          <h3 className="col-6"> {IconsSide()}</h3>
+        </div>
+        <div>
+          <div>
+            <Image
+              src={travel.Image}
+              rounded
+              style={{ width: "300px", height: "200px" }}
+            />
+          </div>
 
-      <Image
-        src={travel.Image}
-        rounded
-        style={{ width: "300px", height: "200px" }}
-      />
-      <h2>{travel.Price}$</h2>
-      <button
-        className={"col-6"}
-        style={{ backgroundColor: "rgb(230, 209, 226)", border: "none" }}
-        onClick={additionalInfoAction}
-      >
-        {IconMoreInfoComponent()}
-      </button>
-      {showAdditionalInfo()}
+          <div>
+            <h2>{travel.Price}$</h2>
+          </div>
+          <div>
+            <h1 onClick={additionalInfoAction} style={{ cursor: "pointer" }}>
+              {IconMoreInfoComponent()}
+            </h1>
+            {showAdditionalInfo()}
+          </div>
+        </div>
+      </div>
     </div>
   );
 }

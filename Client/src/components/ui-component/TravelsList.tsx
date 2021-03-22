@@ -15,11 +15,11 @@ export default function TravelsList() {
   }, []);
 
   return (
-    <div>
+    <div className="container">
       <div className="row">
-        {travels.map((travel) => {
+        {travels.map((travel, index) => {
           return (
-            <div className="col-3" key={travel.id}>
+            <div className="col-4" key={travel.id}>
               <SingleTravel travel={travel} />
             </div>
           );

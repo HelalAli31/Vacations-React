@@ -4,9 +4,11 @@ import { Form } from "react-bootstrap";
 import { getTravelsAction } from "../../store/async-actions/getTravelsAction";
 import { AddTravelAction } from "../../store/async-actions/AddTravelAction";
 import { useHistory } from "react-router";
+import HomeIcon from "@material-ui/icons/Home";
 
 import "./ui.css";
 import { BsFillHouseFill } from "react-icons/bs";
+import moment from "moment";
 
 export default function AddVacationModal(props: any) {
   const history = useHistory();
@@ -50,32 +52,33 @@ export default function AddVacationModal(props: any) {
   };
 
   function validateForm() {
-    let Datebool = true;
-    for (let i = 0; i < 3; i++) {
-      let Start = EndAt.split("-")[i];
-      let End = StartAt.split("-")[i];
-      if (Start > End) return false;
-    }
+    let Datebool = false;
+    const s = moment(StartAt).startOf("day").fromNow();
+    const e = moment(EndAt).startOf("day").fromNow();
+    if (s <= e && s.includes("in") && e.includes("in")) Datebool = true;
     return (
       Name.length > 0 &&
       Price.length > 0 &&
       Image.length > 0 &&
       Description.length > 0 &&
       StartAt.length > 0 &&
-      EndAt.length > 0
-      //   Datebool
+      EndAt.length > 0 &&
+      Datebool
     );
   }
 
   return (
     <div className="AddVacationClass">
       <button
-        className="HomeButton"
+        className="HomeButtonbtn"
         onClick={() => {
           history.push("/home");
         }}
       >
-        <BsFillHouseFill />
+        <h1 style={{ marginRight: "50px" }}>
+          {" "}
+          <HomeIcon />
+        </h1>
       </button>
       <div
         {...props}
@@ -108,7 +111,7 @@ export default function AddVacationModal(props: any) {
               />
             </div>
             <div className="form-group">
-              <label>Image:</label>
+              <label>Image url:</label>
               <input
                 className="form-control"
                 name="Image"
@@ -123,6 +126,7 @@ export default function AddVacationModal(props: any) {
                 <Form.Control
                   type="date"
                   name="StartAt"
+                  min={moment().format()}
                   onChange={handleOnchange}
                 />
               </Form.Group>
@@ -159,10 +163,13 @@ export default function AddVacationModal(props: any) {
           </div>
         </h4>
         <div>
-          <Button onClick={handleAddVacation} disabled={!validateForm()}>
-            Add
+          <Button
+            onClick={handleAddVacation}
+            disabled={!validateForm()}
+            style={{ backgroundColor: "rgb(85, 86, 126)", cursor: "pointer" }}
+          >
+            <span>Add</span>
           </Button>
-          <Button onClick={props.onHide}>Close</Button>
         </div>
       </div>
     </div>

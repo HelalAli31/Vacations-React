@@ -635,3 +635,655 @@
 {"message":"getTravels mode on","level":"info","timestamp":"2021-03-13T11:01:07.718Z"}
 {"message":"getTravels mode on","level":"info","timestamp":"2021-03-13T11:07:28.380Z"}
 {"message":"getTravels mode on","level":"info","timestamp":"2021-03-13T11:07:54.241Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-13T12:23:07.440Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-17T19:15:17.535Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:15:17.733Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:17:10.657Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:17:44.925Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-17T19:18:07.466Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:18:07.525Z"}
+{"message":"helalali1@hotmail.com has just joined","level":"info","timestamp":"2021-03-17T19:18:31.639Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:18:31.742Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:19:47.359Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-17T19:19:53.602Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:19:53.652Z"}
+{"message":"helalali1@hotmail.com has just joined","level":"info","timestamp":"2021-03-17T19:20:05.018Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:20:05.116Z"}
+{"message":"Duplicate entry '1' for key 'travels.PRIMARY'","code":"ER_DUP_ENTRY","errno":1062,"sqlState":"23000","sqlMessage":"Duplicate entry '1' for key 'travels.PRIMARY'","level":"error","timestamp":"2021-03-17T19:22:44.256Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:22:48.155Z"}
+{"message":"13 travel has added now","level":"info","timestamp":"2021-03-17T19:23:19.869Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:23:21.539Z"}
+{"message":"Duplicate entry '13' for key 'travels.PRIMARY'","code":"ER_DUP_ENTRY","errno":1062,"sqlState":"23000","sqlMessage":"Duplicate entry '13' for key 'travels.PRIMARY'","level":"error","timestamp":"2021-03-17T19:24:08.620Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:24:10.855Z"}
+{"message":"Duplicate entry '13' for key 'travels.PRIMARY'","code":"ER_DUP_ENTRY","errno":1062,"sqlState":"23000","sqlMessage":"Duplicate entry '13' for key 'travels.PRIMARY'","level":"error","timestamp":"2021-03-17T19:24:31.657Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:24:57.705Z"}
+{"message":"Duplicate entry '13' for key 'travels.PRIMARY'","code":"ER_DUP_ENTRY","errno":1062,"sqlState":"23000","sqlMessage":"Duplicate entry '13' for key 'travels.PRIMARY'","level":"error","timestamp":"2021-03-17T19:24:58.869Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:25:00.476Z"}
+{"message":"Duplicate entry '13' for key 'travels.PRIMARY'","code":"ER_DUP_ENTRY","errno":1062,"sqlState":"23000","sqlMessage":"Duplicate entry '13' for key 'travels.PRIMARY'","level":"error","timestamp":"2021-03-17T19:25:05.543Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:25:24.273Z"}
+{"message":"Duplicate entry '13' for key 'travels.PRIMARY'","code":"ER_DUP_ENTRY","errno":1062,"sqlState":"23000","sqlMessage":"Duplicate entry '13' for key 'travels.PRIMARY'","level":"error","timestamp":"2021-03-17T19:25:26.027Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:25:27.550Z"}
+{"message":"Duplicate entry '13' for key 'travels.PRIMARY'","code":"ER_DUP_ENTRY","errno":1062,"sqlState":"23000","sqlMessage":"Duplicate entry '13' for key 'travels.PRIMARY'","level":"error","timestamp":"2021-03-17T19:26:12.798Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:26:15.096Z"}
+{"message":"Duplicate entry '13' for key 'travels.PRIMARY'","code":"ER_DUP_ENTRY","errno":1062,"sqlState":"23000","sqlMessage":"Duplicate entry '13' for key 'travels.PRIMARY'","level":"error","timestamp":"2021-03-17T19:27:28.635Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:27:31.379Z"}
+{"message":"Duplicate entry '13' for key 'travels.PRIMARY'","code":"ER_DUP_ENTRY","errno":1062,"sqlState":"23000","sqlMessage":"Duplicate entry '13' for key 'travels.PRIMARY'","level":"error","timestamp":"2021-03-17T19:27:47.058Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:27:49.423Z"}
+{"message":"Duplicate entry '13' for key 'travels.PRIMARY'","code":"ER_DUP_ENTRY","errno":1062,"sqlState":"23000","sqlMessage":"Duplicate entry '13' for key 'travels.PRIMARY'","level":"error","timestamp":"2021-03-17T19:28:11.735Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:28:20.194Z"}
+{"message":"Duplicate entry '13' for key 'travels.PRIMARY'","code":"ER_DUP_ENTRY","errno":1062,"sqlState":"23000","sqlMessage":"Duplicate entry '13' for key 'travels.PRIMARY'","level":"error","timestamp":"2021-03-17T19:33:10.790Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:33:12.996Z"}
+{"message":"Duplicate entry '1' for key 'travels.PRIMARY'","code":"ER_DUP_ENTRY","errno":1062,"sqlState":"23000","sqlMessage":"Duplicate entry '1' for key 'travels.PRIMARY'","level":"error","timestamp":"2021-03-17T19:33:48.324Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:33:48.365Z"}
+{"message":"Duplicate entry '1' for key 'travels.PRIMARY'","code":"ER_DUP_ENTRY","errno":1062,"sqlState":"23000","sqlMessage":"Duplicate entry '1' for key 'travels.PRIMARY'","level":"error","timestamp":"2021-03-17T19:34:28.007Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:34:28.048Z"}
+{"message":"Duplicate entry '1' for key 'travels.PRIMARY'","code":"ER_DUP_ENTRY","errno":1062,"sqlState":"23000","sqlMessage":"Duplicate entry '1' for key 'travels.PRIMARY'","level":"error","timestamp":"2021-03-17T19:34:54.671Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:34:54.712Z"}
+{"message":"Duplicate entry '2' for key 'travels.PRIMARY'","code":"ER_DUP_ENTRY","errno":1062,"sqlState":"23000","sqlMessage":"Duplicate entry '2' for key 'travels.PRIMARY'","level":"error","timestamp":"2021-03-17T19:36:24.875Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:36:29.000Z"}
+{"message":"22 travel has added now","level":"info","timestamp":"2021-03-17T19:36:36.092Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:36:48.867Z"}
+{"message":"Duplicate entry '22' for key 'travels.PRIMARY'","code":"ER_DUP_ENTRY","errno":1062,"sqlState":"23000","sqlMessage":"Duplicate entry '22' for key 'travels.PRIMARY'","level":"error","timestamp":"2021-03-17T19:37:10.721Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:37:13.331Z"}
+{"message":"223 travel has added now","level":"info","timestamp":"2021-03-17T19:37:19.113Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:37:21.641Z"}
+{"message":"12122 travel has added now","level":"info","timestamp":"2021-03-17T19:38:16.583Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:38:20.921Z"}
+{"message":"Data truncated for column 'id' at row 1","code":"WARN_DATA_TRUNCATED","errno":1265,"sqlState":"01000","sqlMessage":"Data truncated for column 'id' at row 1","level":"error","timestamp":"2021-03-17T19:38:58.467Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:39:40.743Z"}
+{"message":"231 travel has added now","level":"info","timestamp":"2021-03-17T19:39:48.301Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:39:52.104Z"}
+{"message":"Duplicate entry '231' for key 'travels.PRIMARY'","code":"ER_DUP_ENTRY","errno":1062,"sqlState":"23000","sqlMessage":"Duplicate entry '231' for key 'travels.PRIMARY'","level":"error","timestamp":"2021-03-17T19:40:32.270Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:40:34.919Z"}
+{"message":"555 travel has added now","level":"info","timestamp":"2021-03-17T19:40:56.547Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:40:58.905Z"}
+{"message":"12223213 travel has added now","level":"info","timestamp":"2021-03-17T19:43:24.103Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:43:25.835Z"}
+{"message":"Duplicate entry '12223213' for key 'travels.PRIMARY'","code":"ER_DUP_ENTRY","errno":1062,"sqlState":"23000","sqlMessage":"Duplicate entry '12223213' for key 'travels.PRIMARY'","level":"error","timestamp":"2021-03-17T19:43:27.739Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T19:43:29.304Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T20:38:00.469Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-17T20:38:17.743Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T20:38:17.833Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-17T20:38:26.313Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T20:38:26.348Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-17T20:38:33.572Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T20:38:33.607Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-17T20:38:42.910Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T20:38:42.942Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T20:39:19.205Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T20:40:06.352Z"}
+{"message":"elias_abu@gmail.com has just joined","level":"info","timestamp":"2021-03-17T20:41:51.324Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T20:41:51.425Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-17T20:42:38.158Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T20:42:38.190Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-17T20:42:45.282Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T20:42:45.310Z"}
+{"message":"helalali1@hotmail.com has just joined","level":"info","timestamp":"2021-03-17T20:43:20.946Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T20:43:21.057Z"}
+{"message":"travel id=555 has just deleted","level":"info","timestamp":"2021-03-17T20:43:25.406Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T20:43:25.433Z"}
+{"message":"travel id=231 has just deleted","level":"info","timestamp":"2021-03-17T20:43:27.291Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T20:43:27.319Z"}
+{"message":"travel id=22 has just deleted","level":"info","timestamp":"2021-03-17T20:43:28.392Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T20:43:28.416Z"}
+{"message":"travel id=13 has just deleted","level":"info","timestamp":"2021-03-17T20:43:29.486Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T20:43:29.530Z"}
+{"message":"travel id=223 has just deleted","level":"info","timestamp":"2021-03-17T20:43:30.628Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T20:43:30.654Z"}
+{"message":"travel id=12223213 has just deleted","level":"info","timestamp":"2021-03-17T20:43:31.243Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T20:43:31.267Z"}
+{"message":"travel id=12122 has just deleted","level":"info","timestamp":"2021-03-17T20:43:31.966Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T20:43:31.986Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-17T20:44:41.653Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T20:44:41.724Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T20:45:10.229Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T20:48:00.471Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T20:48:08.194Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-17T20:48:17.058Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T20:48:17.140Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T20:48:29.235Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T20:48:58.794Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-17T20:49:04.581Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T20:49:04.653Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T20:50:34.898Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T20:50:44.016Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-17T20:50:51.333Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T20:50:51.400Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T20:55:48.117Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T21:06:45.067Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T21:06:56.551Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T21:07:18.280Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T21:11:37.674Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-17T21:14:16.119Z"}
+{"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2021-03-18T04:50:51.000Z","level":"error","timestamp":"2021-03-19T10:45:59.822Z"}
+{"name":"TokenExpiredError","message":"er: jwt expired","expiredAt":"2021-03-18T04:50:51.000Z","level":"error","timestamp":"2021-03-19T10:45:59.822Z","stack":"TokenExpiredError: jwt expired\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:152:21\n    at getSecret (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:90:14)\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:94:10)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\routes\\travels\\index.js:21:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7"}
+{"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2021-03-18T04:50:51.000Z","level":"error","timestamp":"2021-03-19T10:46:08.703Z"}
+{"name":"TokenExpiredError","message":"er: jwt expired","expiredAt":"2021-03-18T04:50:51.000Z","level":"error","timestamp":"2021-03-19T10:46:08.703Z","stack":"TokenExpiredError: jwt expired\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:152:21\n    at getSecret (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:90:14)\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:94:10)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\routes\\travels\\index.js:21:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7"}
+{"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2021-03-18T04:50:51.000Z","level":"error","timestamp":"2021-03-19T10:46:28.144Z"}
+{"name":"TokenExpiredError","message":"er: jwt expired","expiredAt":"2021-03-18T04:50:51.000Z","level":"error","timestamp":"2021-03-19T10:46:28.144Z","stack":"TokenExpiredError: jwt expired\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:152:21\n    at getSecret (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:90:14)\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:94:10)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\routes\\travels\\index.js:21:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-19T10:46:49.797Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-19T10:46:49.957Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-19T10:47:57.173Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-19T10:48:18.523Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-19T10:48:37.117Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-19T10:52:38.876Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-19T10:52:55.845Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-19T10:52:59.840Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-19T10:53:01.875Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-19T10:53:15.837Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-19T10:53:56.887Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-19T10:54:19.927Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-19T11:15:38.837Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-19T11:15:44.135Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-19T11:16:45.743Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-19T11:17:28.023Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-19T11:19:52.206Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-19T11:21:24.422Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-19T11:21:35.011Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-19T11:22:13.996Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-19T11:22:21.226Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-19T11:23:06.380Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-19T11:23:16.814Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-19T11:28:12.849Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-19T11:29:17.237Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-19T11:32:49.617Z"}
+{"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2021-03-19T18:46:49.000Z","level":"error","timestamp":"2021-03-20T04:51:47.603Z"}
+{"name":"TokenExpiredError","message":"er: jwt expired","expiredAt":"2021-03-19T18:46:49.000Z","level":"error","timestamp":"2021-03-20T04:51:47.603Z","stack":"TokenExpiredError: jwt expired\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:152:21\n    at getSecret (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:90:14)\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:94:10)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\routes\\travels\\index.js:21:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7"}
+{"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2021-03-19T18:46:49.000Z","level":"error","timestamp":"2021-03-20T04:52:11.266Z"}
+{"name":"TokenExpiredError","message":"er: jwt expired","expiredAt":"2021-03-19T18:46:49.000Z","level":"error","timestamp":"2021-03-20T04:52:11.266Z","stack":"TokenExpiredError: jwt expired\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:152:21\n    at getSecret (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:90:14)\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:94:10)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\routes\\travels\\index.js:21:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-20T04:52:22.520Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T04:52:22.762Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T04:53:14.890Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T04:54:00.702Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T04:54:54.703Z"}
+{"message":"helalali1@hotmail.com has just joined","level":"info","timestamp":"2021-03-20T04:55:12.594Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T04:55:12.703Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-20T04:55:21.233Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T04:55:21.337Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T04:55:46.004Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T04:58:49.652Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T04:59:00.823Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T04:59:50.716Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:02:44.602Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-20T05:25:25.540Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:25:25.630Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:26:39.611Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:26:54.408Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:27:41.348Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:28:53.348Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:28:54.395Z"}
+{"message":"helalali1@hotmail.com has just joined","level":"info","timestamp":"2021-03-20T05:29:11.617Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:29:11.734Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-20T05:29:44.763Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:29:44.845Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:36:20.023Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:36:32.527Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:36:36.721Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:38:24.330Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:38:25.209Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:41:17.238Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:45:36.272Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:45:58.087Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:46:05.076Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:46:15.340Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:46:18.104Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:46:29.408Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:46:38.847Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:49:25.551Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:51:12.166Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:51:37.814Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-20T05:51:55.499Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:51:55.602Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:53:04.549Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:55:15.421Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:55:19.385Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:55:20.422Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:55:21.383Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-20T05:55:25.570Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:55:25.650Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:55:27.386Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:55:28.927Z"}
+{"message":"helalali1@hotmail.com has just joined","level":"info","timestamp":"2021-03-20T05:55:40.186Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:55:40.325Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:55:42.149Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-20T05:55:47.015Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:55:47.092Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:56:09.050Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-20T05:58:18.198Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:58:18.236Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T05:59:01.176Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:00:12.825Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:00:38.061Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:01:03.486Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:01:08.994Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:01:24.347Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-20T06:02:03.623Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:02:03.646Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-20T06:02:05.404Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:02:05.429Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:02:45.053Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:04:02.893Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:04:08.866Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:05:34.233Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:05:42.628Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:06:10.708Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:06:15.300Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:06:23.703Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:07:30.086Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:07:44.658Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:07:55.324Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:08:01.653Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:08:33.894Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:10:05.136Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:10:18.610Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:13:30.109Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:18:02.774Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:19:14.608Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:21:34.875Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-20T06:22:16.774Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:22:16.801Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-20T06:22:21.059Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:22:21.085Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:26:44.317Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:28:24.176Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:31:17.599Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:31:17.986Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:31:31.355Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:33:41.890Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:38:02.881Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:39:03.461Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:39:59.423Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:43:16.880Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:43:38.705Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:44:28.659Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:44:29.751Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:44:43.448Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:44:56.260Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:45:49.939Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-20T06:46:38.050Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:46:38.075Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-20T06:46:48.664Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:46:48.692Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-20T06:46:50.662Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:46:50.685Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-20T06:46:53.529Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:46:53.555Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-20T06:46:56.885Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:46:56.906Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T06:52:07.460Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:04:59.986Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-20T07:05:12.610Z"}
+{"message":"login failed by user:a and password:`","level":"error","timestamp":"2021-03-20T07:05:12.624Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-20T07:05:19.897Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:05:19.958Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-20T07:17:43.458Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:17:43.515Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:21:07.501Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:21:54.786Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:22:40.103Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:23:33.276Z"}
+{"message":"Too many connections","code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections","level":"error","timestamp":"2021-03-20T07:24:48.305Z"}
+{"message":"Too many connections","code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections","level":"error","timestamp":"2021-03-20T07:26:15.391Z"}
+{"message":"Too many connections","code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections","level":"error","timestamp":"2021-03-20T07:26:17.306Z"}
+{"message":"Too many connections","code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections","level":"error","timestamp":"2021-03-20T07:26:24.574Z"}
+{"message":"Too many connections","code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections","level":"error","timestamp":"2021-03-20T07:26:25.649Z"}
+{"message":"Too many connections","code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections","level":"error","timestamp":"2021-03-20T07:26:28.991Z"}
+{"message":"Too many connections","code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections","level":"error","timestamp":"2021-03-20T07:26:33.579Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-20T07:26:42.105Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-20T07:26:42.968Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-20T07:26:44.033Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-20T07:26:47.711Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-20T07:26:50.986Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-20T07:27:21.625Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-20T07:27:23.109Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-20T07:27:23.363Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-20T07:27:32.713Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-20T07:27:35.500Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-20T07:28:25.812Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-20T07:29:34.345Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:29:34.468Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:29:41.644Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:30:23.592Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:33:33.292Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:33:48.485Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:34:06.324Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:34:12.307Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:34:14.293Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:34:15.354Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:34:23.309Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:34:25.291Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:34:26.304Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:34:32.303Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:34:43.303Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:34:45.299Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:34:49.158Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:35:08.334Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:35:11.308Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:36:28.716Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:36:36.793Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:36:45.395Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:36:48.455Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:39:16.358Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:39:17.383Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:39:19.473Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:39:42.809Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:39:47.721Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-20T07:42:07.865Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:42:07.955Z"}
+{"message":"helalali1@hotmail.com has just joined","level":"info","timestamp":"2021-03-20T07:42:18.730Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:42:18.826Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:42:20.933Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:42:22.648Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:42:25.440Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:42:26.570Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:42:37.912Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:42:40.284Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:42:43.257Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:46:53.961Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:47:50.383Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:48:18.391Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:52:00.637Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:52:37.072Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:52:41.218Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:53:00.268Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:53:30.376Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:53:32.355Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:56:46.283Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:57:20.451Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:57:34.698Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:57:48.678Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:57:50.672Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:58:04.875Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:58:11.946Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:58:15.570Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:58:20.726Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:58:21.394Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:58:25.286Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-20T07:58:31.320Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:58:31.381Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T07:59:50.861Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:00:47.298Z"}
+{"message":"helalali1@hotmail.com has just joined","level":"info","timestamp":"2021-03-20T08:00:58.964Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:00:59.051Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:01:42.859Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:02:02.533Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:02:48.207Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:02:57.677Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:03:04.408Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:03:15.849Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:05:27.524Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:05:29.189Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:05:34.547Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:05:48.437Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:06:04.981Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:06:06.448Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:06:15.383Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:06:40.377Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:06:55.660Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:07:04.980Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:07:09.007Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:07:15.923Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:07:18.956Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:07:20.531Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:07:52.554Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:07:55.430Z"}
+{"message":"14 travel has added now","level":"info","timestamp":"2021-03-20T08:08:42.159Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:08:43.472Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:08:47.246Z"}
+{"message":"Incorrect integer value: 'asd' for column 'Price' at row 1","code":"ER_TRUNCATED_WRONG_VALUE_FOR_FIELD","errno":1366,"sqlState":"HY000","sqlMessage":"Incorrect integer value: 'asd' for column 'Price' at row 1","level":"error","timestamp":"2021-03-20T08:10:36.777Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:10:38.229Z"}
+{"message":"undefined travel has edited now","level":"info","timestamp":"2021-03-20T08:11:05.769Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:11:07.649Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:13:11.612Z"}
+{"message":"Incorrect integer value: 'asd' for column 'Price' at row 1","code":"ER_TRUNCATED_WRONG_VALUE_FOR_FIELD","errno":1366,"sqlState":"HY000","sqlMessage":"Incorrect integer value: 'asd' for column 'Price' at row 1","level":"error","timestamp":"2021-03-20T08:13:35.194Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:13:37.899Z"}
+{"message":"Incorrect integer value: 'asd' for column 'Price' at row 1","code":"ER_TRUNCATED_WRONG_VALUE_FOR_FIELD","errno":1366,"sqlState":"HY000","sqlMessage":"Incorrect integer value: 'asd' for column 'Price' at row 1","level":"error","timestamp":"2021-03-20T08:13:48.193Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:13:54.787Z"}
+{"message":"undefined travel has edited now","level":"info","timestamp":"2021-03-20T08:13:57.861Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:13:59.384Z"}
+{"message":"travel id=14 has just deleted","level":"info","timestamp":"2021-03-20T08:14:06.780Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:14:06.803Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:14:11.948Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:14:15.873Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:14:18.383Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:15:59.189Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:16:11.550Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:17:44.681Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:18:05.187Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:18:28.489Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:18:56.412Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:18:59.087Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:19:35.873Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:19:46.638Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:20:31.170Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:24:11.692Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:33:02.997Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:33:49.405Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:37:32.651Z"}
+{"message":"123 travel has added now","level":"info","timestamp":"2021-03-20T08:43:47.187Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T08:43:48.488Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T09:08:08.628Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T09:09:00.031Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T09:09:01.783Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T09:09:05.337Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T09:09:08.160Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T09:09:25.728Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T09:09:27.243Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-20T09:10:10.601Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T09:10:10.699Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-20T09:10:17.896Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T09:10:17.927Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-20T09:10:22.373Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T09:10:22.403Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T09:10:42.441Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-20T09:10:53.145Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T09:10:53.181Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-20T09:11:05.002Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T09:11:05.034Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-20T09:11:13.020Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T09:11:13.105Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T09:17:11.329Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T09:19:30.721Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T09:21:10.671Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T09:21:12.172Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T09:22:19.897Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T09:22:24.715Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T09:22:31.011Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T09:29:02.509Z"}
+{"message":"helalali1@hotmail.com has just joined","level":"info","timestamp":"2021-03-20T09:30:09.050Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T09:30:09.177Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-20T09:48:38.787Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T09:48:38.867Z"}
+{"message":"helalali1@hotmail.com has just joined","level":"info","timestamp":"2021-03-20T09:49:02.281Z"}
+{"message":"login failed by user:helalali1@hotmail.com and password:hellapro789","level":"error","timestamp":"2021-03-20T09:49:02.291Z"}
+{"message":"helalali1@hotmail.com has just joined","level":"info","timestamp":"2021-03-20T09:49:08.246Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T09:49:08.370Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-20T10:34:33.948Z"}
+{"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2021-03-20T17:49:08.000Z","level":"error","timestamp":"2021-03-22T17:21:52.157Z"}
+{"name":"TokenExpiredError","message":"er: jwt expired","expiredAt":"2021-03-20T17:49:08.000Z","level":"error","timestamp":"2021-03-22T17:21:52.157Z","stack":"TokenExpiredError: jwt expired\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:152:21\n    at getSecret (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:90:14)\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:94:10)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\routes\\travels\\index.js:21:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7"}
+{"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2021-03-20T17:49:08.000Z","level":"error","timestamp":"2021-03-22T17:22:03.242Z"}
+{"name":"TokenExpiredError","message":"er: jwt expired","expiredAt":"2021-03-20T17:49:08.000Z","level":"error","timestamp":"2021-03-22T17:22:03.242Z","stack":"TokenExpiredError: jwt expired\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:152:21\n    at getSecret (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:90:14)\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:94:10)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\routes\\travels\\index.js:21:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-22T17:22:11.177Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:22:11.469Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:23:07.429Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:23:55.013Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:24:48.803Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:25:32.406Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:26:17.831Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:26:53.332Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:26:55.157Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:27:02.425Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:28:53.405Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:34:47.402Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:35:30.930Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:37:10.848Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:37:19.830Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:38:33.846Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:38:50.050Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:39:23.255Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:42:01.226Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:42:27.699Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:43:13.210Z"}
+{"message":"helalali1@hotmail.com has just joined","level":"info","timestamp":"2021-03-22T17:43:42.208Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:43:42.299Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:44:45.582Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:45:03.487Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:45:46.700Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:46:02.050Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:46:45.762Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:48:20.358Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:48:56.703Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:50:54.449Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:54:07.405Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:54:25.955Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:55:14.599Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:56:21.899Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-22T17:56:31.715Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:56:31.802Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-22T17:57:36.498Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:57:36.526Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T17:59:30.699Z"}
+{"message":"helalali1@hotmail.com has just joined","level":"info","timestamp":"2021-03-22T18:00:03.658Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:00:03.736Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:02:02.154Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:04:16.262Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:06:47.961Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:08:10.582Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:12:38.343Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:15:05.324Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:15:12.167Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:15:18.159Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:16:57.376Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:20:22.619Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:21:56.382Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:24:56.263Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:25:12.287Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:31:08.066Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:31:54.037Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:33:02.620Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:33:19.995Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:33:21.762Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:33:40.218Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:37:03.993Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:37:10.532Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:37:47.549Z"}
+{"message":"helalali1@hotmail.com has just joined","level":"info","timestamp":"2021-03-22T18:38:40.250Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:38:40.327Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-22T18:38:46.860Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:38:46.924Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-22T18:38:53.278Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:38:53.296Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-22T18:38:57.612Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:38:57.630Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-22T18:39:01.433Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:39:01.448Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-22T18:39:05.021Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:39:05.035Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-22T18:39:07.806Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:39:07.824Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:39:22.074Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-22T18:39:47.738Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:39:47.751Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-22T18:39:53.938Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:39:53.956Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-22T18:40:00.476Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:40:00.491Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-22T18:40:03.235Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:40:03.247Z"}
+{"message":"helalali1@hotmail.com has just joined","level":"info","timestamp":"2021-03-22T18:40:35.101Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:40:35.177Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:41:56.601Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:42:58.732Z"}
+{"message":"Duplicate entry '123' for key 'travels.PRIMARY'","code":"ER_DUP_ENTRY","errno":1062,"sqlState":"23000","sqlMessage":"Duplicate entry '123' for key 'travels.PRIMARY'","level":"error","timestamp":"2021-03-22T18:46:18.180Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:46:20.516Z"}
+{"message":"1235 travel has added now","level":"info","timestamp":"2021-03-22T18:46:24.618Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:46:25.978Z"}
+{"message":"Duplicate entry '1235' for key 'travels.PRIMARY'","code":"ER_DUP_ENTRY","errno":1062,"sqlState":"23000","sqlMessage":"Duplicate entry '1235' for key 'travels.PRIMARY'","level":"error","timestamp":"2021-03-22T18:46:27.262Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:46:29.135Z"}
+{"message":"Duplicate entry '1235' for key 'travels.PRIMARY'","code":"ER_DUP_ENTRY","errno":1062,"sqlState":"23000","sqlMessage":"Duplicate entry '1235' for key 'travels.PRIMARY'","level":"error","timestamp":"2021-03-22T18:46:58.452Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:47:00.551Z"}
+{"message":"Duplicate entry '1235' for key 'travels.PRIMARY'","code":"ER_DUP_ENTRY","errno":1062,"sqlState":"23000","sqlMessage":"Duplicate entry '1235' for key 'travels.PRIMARY'","level":"error","timestamp":"2021-03-22T18:47:59.168Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:48:01.159Z"}
+{"message":"12352 travel has added now","level":"info","timestamp":"2021-03-22T18:48:58.423Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:48:59.646Z"}
+{"message":"Duplicate entry '12352' for key 'travels.PRIMARY'","code":"ER_DUP_ENTRY","errno":1062,"sqlState":"23000","sqlMessage":"Duplicate entry '12352' for key 'travels.PRIMARY'","level":"error","timestamp":"2021-03-22T18:49:01.126Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:49:02.170Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:49:39.028Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:50:31.154Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:50:33.496Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:50:36.364Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:51:17.361Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:54:21.939Z"}
+{"message":"999 travel has added now","level":"info","timestamp":"2021-03-22T18:59:25.807Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T18:59:28.196Z"}
+{"message":"Duplicate entry '999' for key 'travels.PRIMARY'","code":"ER_DUP_ENTRY","errno":1062,"sqlState":"23000","sqlMessage":"Duplicate entry '999' for key 'travels.PRIMARY'","level":"error","timestamp":"2021-03-22T19:00:58.410Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:00:59.731Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:01:02.496Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:01:16.045Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:02:20.257Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:02:21.199Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:02:28.821Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:02:31.468Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:02:36.313Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:02:39.683Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:02:41.672Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:02:43.597Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:02:46.407Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:02:49.116Z"}
+{"message":"travel id=1235 has just deleted","level":"info","timestamp":"2021-03-22T19:03:08.173Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:03:08.188Z"}
+{"message":"Too many connections","code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections","level":"error","timestamp":"2021-03-22T19:03:09.726Z"}
+{"message":"Too many connections","code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections","level":"error","timestamp":"2021-03-22T19:03:09.738Z"}
+{"message":"Too many connections","code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections","level":"error","timestamp":"2021-03-22T19:03:13.292Z"}
+{"message":"Too many connections","code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections","level":"error","timestamp":"2021-03-22T19:03:13.304Z"}
+{"message":"Too many connections","code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections","level":"error","timestamp":"2021-03-22T19:03:19.882Z"}
+{"message":"Too many connections","code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections","level":"error","timestamp":"2021-03-22T19:03:23.272Z"}
+{"message":"Too many connections","code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections","level":"error","timestamp":"2021-03-22T19:03:25.911Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-22T19:03:31.956Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-22T19:03:33.347Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-22T19:05:22.565Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-22T19:05:23.938Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-22T19:05:31.677Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-22T19:05:51.785Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-22T19:05:59.514Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-22T19:06:49.207Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-22T19:06:51.421Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-22T19:06:51.616Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-22T19:06:51.892Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-22T19:06:52.099Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-22T19:07:04.552Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-22T19:07:09.868Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-22T19:07:12.538Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-22T19:08:07.517Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:08:07.653Z"}
+{"message":"helalali1@hotmail.com has just joined","level":"info","timestamp":"2021-03-22T19:08:22.553Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:08:22.651Z"}
+{"message":"travel id=12352 has just deleted","level":"info","timestamp":"2021-03-22T19:08:26.757Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:08:26.778Z"}
+{"message":"travel id=999 has just deleted","level":"info","timestamp":"2021-03-22T19:08:28.507Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:08:28.531Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:08:53.585Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:08:57.185Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-22T19:18:38.628Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:18:38.683Z"}
+{"message":"[object Object] has just joined us ","level":"info","timestamp":"2021-03-22T19:32:09.560Z"}
+{"level":"error","timestamp":"2021-03-22T19:32:15.356Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-22T19:32:46.479Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:32:46.550Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:33:50.662Z"}
+{"message":"helalali1@hotmail.com has just joined","level":"info","timestamp":"2021-03-22T19:34:12.262Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:34:12.340Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:34:15.656Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:34:19.592Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:34:26.622Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:37:52.490Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:37:58.032Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:37:59.583Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:38:03.422Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-22T19:38:21.571Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:38:21.622Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-22T19:38:28.044Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:38:28.063Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-22T19:38:30.929Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:38:30.953Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:38:37.041Z"}

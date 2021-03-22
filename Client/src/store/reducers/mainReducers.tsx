@@ -9,7 +9,7 @@ const initialState: IState = { travels: [], userType: "" };
 function mainReducer(state = initialState, action: any) {
   switch (action.type) {
     case ACTIONS.travels.GET_TRAVELS: {
-      console.log("asd", action.payload);
+      console.log("mainReducer_travels", action.payload);
       return {
         ...state,
         travels: [...action.payload],

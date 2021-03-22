@@ -1,14 +1,15 @@
 import { render } from "@testing-library/react";
 import React, { useState } from "react";
 import { Button, Modal } from "react-bootstrap";
-import EditIcon from "@material-ui/icons/Edit";
 import { EditTravelAction } from "../../store/async-actions/EditTravelAction";
 import moment from "moment";
+import EditIcon from "@material-ui/icons/Edit";
+
 import { Form } from "react-bootstrap";
 import { getTravelsAction } from "../../store/async-actions/getTravelsAction";
 
 function MyVerticallyCenteredModal(props: any) {
-  const { TravelName, id } = props;
+  const { TravelName, id, DescriptionValue, ImageValue, PriceValue } = props;
   const [Name, setName] = useState("");
   const [Image, setImage] = useState("");
   const [Price, setPrice] = useState("");
@@ -47,12 +48,10 @@ function MyVerticallyCenteredModal(props: any) {
   };
 
   function validateForm() {
-    let Datebool = true;
-    for (let i = 0; i < 3; i++) {
-      let Start = EndAt.split("-")[i];
-      let End = StartAt.split("-")[i];
-      if (Start > End) return false;
-    }
+    let Datebool = false;
+    const s = moment(StartAt).startOf("hour").fromNow();
+    const e = moment(EndAt).startOf("hour").fromNow();
+    if (s <= e && s.includes("in") && e.includes("in")) Datebool = true;
     return (
       Name.length > 0 &&
       Price.length > 0 &&
@@ -82,6 +81,7 @@ function MyVerticallyCenteredModal(props: any) {
           <div className="form-group">
             <label>Travel Name:</label>
             <input
+              value={TravelName}
               className="form-control"
               name="Name"
               aria-describedby="emailHelp"
@@ -91,6 +91,7 @@ function MyVerticallyCenteredModal(props: any) {
           <div className="form-group">
             <label>Image:</label>
             <input
+              value={ImageValue}
               className="form-control"
               name="Image"
               aria-describedby="emailHelp"
@@ -123,6 +124,7 @@ function MyVerticallyCenteredModal(props: any) {
             <input
               className="form-control"
               name="Price"
+              value={PriceValue}
               aria-describedby="emailHelp"
               onChange={handleOnchange}
             />
@@ -131,6 +133,7 @@ function MyVerticallyCenteredModal(props: any) {
             <label>Desciption:</label>
             <input
               name="Description"
+              value={DescriptionValue}
               className="form-control"
               aria-describedby="emailHelp"
               style={{ height: "100px" }}
@@ -150,13 +153,13 @@ function MyVerticallyCenteredModal(props: any) {
 }
 
 export default function EditModalComponent(props: any) {
-  const { WhereTo, id } = props;
+  const { WhereTo, id, Description, Image, Price } = props;
   const [modalShow, setModalShow] = React.useState(false);
 
   return (
     <>
       <Button
-        style={{ backgroundColor: "black", border: "none" }}
+        style={{ backgroundColor: "white", color: "black", border: "none" }}
         onClick={() => setModalShow(true)}
       >
         <EditIcon />
@@ -164,6 +167,9 @@ export default function EditModalComponent(props: any) {
 
       <MyVerticallyCenteredModal
         TravelName={WhereTo}
+        DescriptionValue={Description}
+        ImageValue={Image}
+        PriceValue={Price}
         id={id}
         show={modalShow}
         onHide={() => setModalShow(false)}

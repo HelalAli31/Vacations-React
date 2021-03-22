@@ -7,6 +7,7 @@ import { Register } from "./components/containers/register";
 import HomePage from "./components/containers/homepage";
 import AddVacationComponent from "./components/ui-component/AddVacationComponent";
 import SingleTravelCard from "./components/ui-component/singlePageUp";
+import ReportsPage from "./components/containers/ReportsPage";
 
 function App() {
   return (
@@ -26,6 +27,12 @@ function App() {
           <Route key="AddVacation" path="/a">
             <div>
               <SingleTravelCard />
+            </div>
+          </Route>
+
+          <Route key="reports" path="/vacationsReport">
+            <div>
+              <ReportsPage />
             </div>
           </Route>
 

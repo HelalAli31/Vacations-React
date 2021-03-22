@@ -1,12 +1,27 @@
 .FollowIcon {
-  border: solid 1px gray;
-  border-radius: 20px;
   margin-top: 6px;
+  margin-right: 40px;
   cursor: pointer;
 }
 
+.TravelCard {
+  color: black;
+  border: 1px solid black;
+  margin-top: 40px;
+  margin-left: 5px;
+  min-height: 350px;
+  height: 100%;
+  font-family: "Redressed", cursive;
+}
+
+.IconsSide {
+  position: absolute;
+  flex: auto;
+  right: 0;
+}
+
 .cardDiv {
-  border: gray solid 1px;
+  /* border: gray solid 1px; */
   color: black;
   /* border-radius: 20px; */
   /* background-color: black; */
@@ -18,14 +33,59 @@
   margin-top: 40px;
   margin-left: 30px;
   font-size: 30px;
-  background-color: gray;
-  color: white;
+  /* background-color: gray; */
+  color: black;
 }
 
 .AddVacationClass {
-  border: 50px solid gray;
-  background-color: rgb(230, 209, 226);
-  color: black;
+  background-image: url("https://cdn.pixabay.com/photo/2016/11/19/14/31/above-1839587__340.jpg");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  color: rgb(104, 103, 103);
+  height: 100%;
+}
+
+.HomeButtonbtn {
+  position: absolute;
+  left: 50px;
+  width: 25px;
+  height: 25px;
+  margin-top: 30px;
+  cursor: pointer;
+  background: transparent;
+  border: 1px solid #91c9ff;
+  outline: none;
+  transition: 1s ease-in-out;
+}
+.MoreInfoButton {
+  position: relative;
+}
+
+svg {
+  position: absolute;
+  left: 0;
+  top: 0;
+  fill: none;
+  stroke: #fff;
+  stroke-dasharray: 150 480;
+  stroke-dashoffset: 150;
+  transition: 1s ease-in-out;
+}
+
+.btn:hover {
+  transition: 1s ease-in-out;
+  background: #a59087;
+}
+
+.btn:hover svg {
+  stroke-dashoffset: -480;
+}
+
+.btn span {
+  color: white;
+  font-size: 18px;
+  font-weight: 100;
 }
 
 .box-shadow {
@@ -45,9 +105,8 @@ body {
   font-family: "Open Sans", Arial, Verdana;
 }
 
-section {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+.hh {
+  background-color: black;
 }
 
 h6 {
@@ -86,9 +145,11 @@ h6 {
 }
 
 .card {
+  background-color: white !important;
+
   transition: 0.5s ease;
   border-radius: 0;
-  transform: perspective(3em) rotateX(0deg) rotateY(-1.175deg) rotateZ(-1deg);
+  transform: perspective(3em) rotateX(0deg) rotateY(1deg) rotateZ(0deg);
 }
 .card-header {
   border-radius: 0;
@@ -103,6 +164,7 @@ h6 {
 }
 .card:hover {
   border-color: #ffc107;
+  border-radius: 10%;
   transform: perspective(0em) rotateX(0deg) rotateY(0deg) rotateZ(0deg);
 }
 .card:hover .card-header,

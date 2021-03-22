@@ -65,6 +65,34 @@ export default function SingleTravelCard() {
                       </div>
                     </div>
                   </div>
+
+                  <div className="col-12 col-sm-6 col-md-6 col-lg-3">
+                    <div className="card h-100 mb-4">
+                      <div className="card-header">
+                        <h5 className="card-title m-0 p-0 font-weight-bolder text-secondary">
+                          Enterprise Edition Package
+                        </h5>
+                      </div>
+                      <div className="card-body text-left">
+                        <p className="card-text">
+                          All features with cloud storage and Full support.
+                        </p>
+                        <span className="font-lead-base font-weight-bold text-muted">
+                          20% Off!
+                        </span>
+                        <div className="promotion-promo">$ 10</div>
+                        <div className="promotion-price">
+                          <div className="promotion-price-desc">Now</div>
+                          <div className="promotion-price-text">$ 8</div>
+                        </div>
+                      </div>
+                      <div className="card-footer">
+                        <a href="#" className="btn btn-warning">
+                          Order
+                        </a>
+                      </div>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
