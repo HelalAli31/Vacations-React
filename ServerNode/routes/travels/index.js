@@ -9,7 +9,6 @@ const {
   UpdateFollowersAfterDelete,
 } = require("../../controllers/travels/index");
 
-const getValidationFunction = require("../../validations/auth_Login.js");
 
 router.use(async (req, res, next) => {
   try {

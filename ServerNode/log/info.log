@@ -1287,3 +1287,41 @@
 {"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-22T19:38:30.929Z"}
 {"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:38:30.953Z"}
 {"message":"getTravels mode on","level":"info","timestamp":"2021-03-22T19:38:37.041Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-26T17:00:27.922Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-26T17:00:28.097Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-26T17:02:41.194Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-26T17:02:41.227Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-26T17:02:46.083Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-26T17:02:46.121Z"}
+{"message":"jhg has just joined","level":"info","timestamp":"2021-03-26T17:02:54.584Z"}
+{"message":"login failed by user:jhg and password:kjh","level":"error","timestamp":"2021-03-26T17:02:54.593Z"}
+{"message":"helalali1@hotmail.com has just joined","level":"info","timestamp":"2021-03-26T17:03:14.507Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-26T17:03:14.650Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-26T17:03:57.972Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-26T17:05:22.423Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-26T17:05:27.704Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-26T17:05:37.557Z"}
+{"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2021-03-27T01:03:14.000Z","level":"error","timestamp":"2021-03-28T09:37:29.370Z"}
+{"name":"TokenExpiredError","message":"er: jwt expired","expiredAt":"2021-03-27T01:03:14.000Z","level":"error","timestamp":"2021-03-28T09:37:29.370Z","stack":"TokenExpiredError: jwt expired\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:152:21\n    at getSecret (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:90:14)\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:94:10)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\routes\\travels\\index.js:20:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7"}
+{"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2021-03-27T01:03:14.000Z","level":"error","timestamp":"2021-03-28T09:37:32.431Z"}
+{"name":"TokenExpiredError","message":"er: jwt expired","expiredAt":"2021-03-27T01:03:14.000Z","level":"error","timestamp":"2021-03-28T09:37:32.431Z","stack":"TokenExpiredError: jwt expired\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:152:21\n    at getSecret (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:90:14)\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:94:10)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\routes\\travels\\index.js:20:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7"}
+{"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2021-03-27T01:03:14.000Z","level":"error","timestamp":"2021-03-28T09:37:34.096Z"}
+{"name":"TokenExpiredError","message":"er: jwt expired","expiredAt":"2021-03-27T01:03:14.000Z","level":"error","timestamp":"2021-03-28T09:37:34.096Z","stack":"TokenExpiredError: jwt expired\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:152:21\n    at getSecret (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:90:14)\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:94:10)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\routes\\travels\\index.js:20:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-28T09:37:43.856Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-28T09:37:43.985Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-28T09:51:40.579Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-28T09:55:00.931Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-28T09:55:15.903Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-28T09:57:48.411Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-28T10:00:22.953Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-28T10:00:51.771Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-28T10:02:07.895Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-28T10:02:42.883Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-28T10:04:50.923Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-28T10:07:07.080Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-28T10:07:56.883Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-28T10:08:06.917Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-28T10:08:54.523Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-28T10:09:37.302Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-28T10:10:13.251Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-28T10:11:05.568Z"}

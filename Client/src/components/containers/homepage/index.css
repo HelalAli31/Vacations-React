@@ -166,3 +166,22 @@
   opacity: 0;
   transform: scale(0.1, 1);
 }
+
+.SideBottom {
+  background-color: black;
+  color: white;
+  height: 230px;
+  margin-top: 40px;
+  margin-right: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.IconsBottom {
+  border: none;
+  background-color: none;
+}
+.IconsBottom:hover {
+  border: none;
+  background-color: none;
+}

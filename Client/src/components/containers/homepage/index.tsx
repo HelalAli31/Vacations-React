@@ -7,6 +7,11 @@ import "../homepage/index.css";
 
 import ACTIONS from "../../../store/actions";
 import store from "../../../store/index";
+
+import FacebookIcon from "@material-ui/icons/Facebook";
+import InstagramIcon from "@material-ui/icons/Instagram";
+import TwitterIcon from "@material-ui/icons/Twitter";
+
 const { dispatch } = store;
 export default function HomePage() {
   let LocalStorageUser: any = localStorage.getItem("user");
@@ -85,6 +90,31 @@ export default function HomePage() {
 
         <div className="TravelsDiv">
           <TravelsList />
+        </div>
+
+        <div className="SideBottom row">
+          <div className="col-3"></div>
+          <div className="col-3">
+            {" "}
+            <a className="IconsBottom" href="https://www.facebook.com/">
+              {" "}
+              <FacebookIcon />
+            </a>
+          </div>
+          <div className="col-3">
+            {" "}
+            <a className="IconsBottom" href="https://www.instagram.com/">
+              {" "}
+              <InstagramIcon />
+            </a>
+          </div>
+          <div className="col-3">
+            {" "}
+            <a className="IconsBottom" href="https://www.twitter.com/">
+              {" "}
+              <TwitterIcon />
+            </a>
+          </div>
         </div>
       </div>
     </div>

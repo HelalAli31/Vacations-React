@@ -8,8 +8,6 @@ const {
   AddTravel,
 } = require("../../controllers/travels/index");
 
-const getValidationFunction = require("../../validations/auth_Login.js");
-
 router.use(async (req, res, next) => {
   try {
     const clientJwt = req.headers.authorization;
