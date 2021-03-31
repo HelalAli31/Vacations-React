@@ -11,6 +11,9 @@ import { BsFillHouseFill } from "react-icons/bs";
 import moment from "moment";
 
 export default function AddVacationModal(props: any) {
+  let LocalStorageUser: any = localStorage.getItem("user");
+  const user = JSON.parse(LocalStorageUser);
+
   const history = useHistory();
   const [Name, setName] = useState("");
   const [Image, setImage] = useState("");
@@ -67,6 +70,8 @@ export default function AddVacationModal(props: any) {
     );
   }
 
+  if (!user || user.userType !== "admin")
+    return <h1>you are not admit sorry, cant use this page~!</h1>;
   return (
     <div className="AddVacationClass">
       <button
@@ -84,7 +89,7 @@ export default function AddVacationModal(props: any) {
         {...props}
         size="lg"
         aria-labelledby="contained-modal-title-vcenter"
-        centered
+        // centered
         className="container"
       >
         <h1>

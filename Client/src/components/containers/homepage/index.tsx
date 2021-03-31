@@ -17,11 +17,12 @@ export default function HomePage() {
   let LocalStorageUser: any = localStorage.getItem("user");
   const user = JSON.parse(LocalStorageUser);
   const history = useHistory();
-
-  dispatch({
-    type: ACTIONS.user.GET_USERTYPE,
-    payload: user.userType,
-  });
+  if (user) {
+    dispatch({
+      type: ACTIONS.user.GET_USERTYPE,
+      payload: user.userType,
+    });
+  }
 
   const handleSignOut = () => {
     localStorage.clear();
@@ -56,8 +57,8 @@ export default function HomePage() {
       </div>
     ) : null;
   };
-
-  if (!user) return <h1>NO travels to Show</h1>;
+  console.log("user:", user);
+  if (!user) return <h1>NO travels to Show,you should login first</h1>;
   return (
     <div>
       {" "}

@@ -9,8 +9,9 @@ import { useHistory } from "react-router";
 export default function ReportsPage() {
   const history = useHistory();
   const travels = useSelector((state: IState) => state.travels);
+  let LocalStorageUser: any = localStorage.getItem("user");
+  const user = JSON.parse(LocalStorageUser);
   useEffect(() => {
-    console.log(travels);
     getTravelsAction();
   }, []);
 
@@ -52,6 +53,7 @@ export default function ReportsPage() {
       ],
     },
   };
+  if (!user) return <h1>CANT SHOW THIS PAGE BEFORE REGISTERING</h1>;
 
   return (
     <div className="container">

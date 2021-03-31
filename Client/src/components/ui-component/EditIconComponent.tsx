@@ -9,7 +9,13 @@ import { Form } from "react-bootstrap";
 import { getTravelsAction } from "../../store/async-actions/getTravelsAction";
 
 function MyVerticallyCenteredModal(props: any) {
-  const { TravelName, id, DescriptionValue, ImageValue, PriceValue } = props;
+  const {
+    travel_name,
+    id,
+    description_value,
+    image_value,
+    price_value,
+  } = props;
   const [Name, setName] = useState("");
   const [Image, setImage] = useState("");
   const [Price, setPrice] = useState("");
@@ -72,7 +78,7 @@ function MyVerticallyCenteredModal(props: any) {
     >
       <Modal.Header closeButton>
         <Modal.Title id="contained-modal-title-vcenter">
-          Edit {TravelName} Travel
+          Edit {travel_name} Travel
         </Modal.Title>
       </Modal.Header>
       <Modal.Body>
@@ -81,7 +87,7 @@ function MyVerticallyCenteredModal(props: any) {
           <div className="form-group">
             <label>Travel Name:</label>
             <input
-              value={TravelName}
+              defaultValue={travel_name}
               className="form-control"
               name="Name"
               aria-describedby="emailHelp"
@@ -91,7 +97,7 @@ function MyVerticallyCenteredModal(props: any) {
           <div className="form-group">
             <label>Image:</label>
             <input
-              value={ImageValue}
+              defaultValue={image_value}
               className="form-control"
               name="Image"
               aria-describedby="emailHelp"
@@ -124,7 +130,7 @@ function MyVerticallyCenteredModal(props: any) {
             <input
               className="form-control"
               name="Price"
-              value={PriceValue}
+              defaultValue={price_value}
               aria-describedby="emailHelp"
               onChange={handleOnchange}
             />
@@ -133,7 +139,7 @@ function MyVerticallyCenteredModal(props: any) {
             <label>Desciption:</label>
             <input
               name="Description"
-              value={DescriptionValue}
+              defaultValue={description_value}
               className="form-control"
               aria-describedby="emailHelp"
               style={{ height: "100px" }}
@@ -166,10 +172,10 @@ export default function EditModalComponent(props: any) {
       </Button>
 
       <MyVerticallyCenteredModal
-        TravelName={WhereTo}
-        DescriptionValue={Description}
-        ImageValue={Image}
-        PriceValue={Price}
+        travel_name={WhereTo}
+        description_value={Description}
+        image_value={Image}
+        price_value={Price}
         id={id}
         show={modalShow}
         onHide={() => setModalShow(false)}
