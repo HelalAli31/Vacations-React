@@ -1325,3 +1325,48 @@
 {"message":"getTravels mode on","level":"info","timestamp":"2021-03-28T10:09:37.302Z"}
 {"message":"getTravels mode on","level":"info","timestamp":"2021-03-28T10:10:13.251Z"}
 {"message":"getTravels mode on","level":"info","timestamp":"2021-03-28T10:11:05.568Z"}
+{"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2021-03-23T03:38:21.000Z","level":"error","timestamp":"2021-03-31T14:43:16.378Z"}
+{"name":"TokenExpiredError","message":"er: jwt expired","expiredAt":"2021-03-23T03:38:21.000Z","level":"error","timestamp":"2021-03-31T14:43:16.378Z","stack":"TokenExpiredError: jwt expired\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:152:21\n    at getSecret (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:90:14)\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:94:10)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\routes\\travels\\index.js:20:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7"}
+{"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2021-03-23T03:38:21.000Z","level":"error","timestamp":"2021-03-31T14:43:19.408Z"}
+{"name":"TokenExpiredError","message":"er: jwt expired","expiredAt":"2021-03-23T03:38:21.000Z","level":"error","timestamp":"2021-03-31T14:43:19.408Z","stack":"TokenExpiredError: jwt expired\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:152:21\n    at getSecret (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:90:14)\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:94:10)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\routes\\travels\\index.js:20:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-31T14:46:27.024Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-31T14:46:27.278Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-31T14:47:35.679Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-31T14:47:35.717Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-03-31T14:47:40.581Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-31T14:47:40.614Z"}
+{"message":"helalali1@hotmail.com has just joined","level":"info","timestamp":"2021-03-31T14:48:00.723Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-31T14:48:00.861Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-31T14:48:05.014Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-31T14:48:07.196Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-31T14:48:09.544Z"}
+{"message":"Incorrect integer value: 'il' for column 'id' at row 1","code":"ER_TRUNCATED_WRONG_VALUE_FOR_FIELD","errno":1366,"sqlState":"HY000","sqlMessage":"Incorrect integer value: 'il' for column 'id' at row 1","level":"error","timestamp":"2021-03-31T14:49:18.634Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-31T14:49:21.506Z"}
+{"message":"109 travel has added now","level":"info","timestamp":"2021-03-31T14:49:28.838Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-31T14:49:30.215Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-31T14:49:32.672Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-31T14:55:51.556Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-31T15:00:27.224Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-31T15:00:33.498Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-31T15:00:38.689Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-31T15:02:26.683Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-31T15:03:06.268Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-31T15:04:52.622Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-31T15:06:51.782Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-31T15:07:48.883Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-31T15:08:12.452Z"}
+{"message":"undefined travel has edited now","level":"info","timestamp":"2021-03-31T15:09:30.882Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-31T15:09:32.443Z"}
+{"message":"travel id=109 has just deleted","level":"info","timestamp":"2021-03-31T15:09:42.922Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-31T15:09:42.957Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-03-31T15:15:16.288Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-31T15:15:16.378Z"}
+{"message":"[object Object] has just joined us ","level":"info","timestamp":"2021-03-31T15:19:26.537Z"}
+{"message":"ui has just joined","level":"info","timestamp":"2021-03-31T15:20:00.048Z"}
+{"message":"login failed by user:ui and password:li","level":"error","timestamp":"2021-03-31T15:20:00.055Z"}
+{"message":"ui has just joined","level":"info","timestamp":"2021-03-31T15:20:07.588Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-03-31T15:20:07.679Z"}
+{"level":"error","timestamp":"2021-04-02T14:22:52.009Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-04-02T14:23:05.885Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-02T14:23:05.970Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-02T15:13:36.349Z"}
