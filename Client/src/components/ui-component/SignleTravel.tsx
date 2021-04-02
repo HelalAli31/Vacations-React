@@ -41,7 +41,7 @@ export default function SingleTravel(props: any) {
     return userTypeStore === "user" ? (
       <h4
         className="col-2 FollowIcon"
-        style={{ marginLeft: "90px" }}
+        style={{ marginLeft: "30px" }}
         onClick={handleFollow}
       >
         <FacebookIcon />
@@ -56,7 +56,7 @@ export default function SingleTravel(props: any) {
       <div className="row">
         <h3
           className="col-1"
-          style={{ marginLeft: "80px", cursor: "pointer" }}
+          style={{ marginLeft: "60px", cursor: "pointer" }}
           onClick={handleClear}
         >
           <ClearIcon />
@@ -99,11 +99,12 @@ export default function SingleTravel(props: any) {
           <h3 className="col-6"> {IconsSide()}</h3>
         </div>
         <div>
-          <div>
+          <div className="row">
             <Image
+              className="col-12"
               src={travel.Image}
               rounded
-              style={{ width: "300px", height: "200px" }}
+              style={{ width: "300px", height: "250px" }}
             />
           </div>
 
