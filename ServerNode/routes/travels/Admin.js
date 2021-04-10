@@ -1,6 +1,7 @@
 const express = require("express");
 const router = express.Router();
 const { verifyJWT } = require("../../controllers/JWT/jwt");
+const getValidationFunction = require("../../validations/vacations.js");
 const logger = require("../../logger");
 const {
   DeleteTravel,
@@ -22,56 +23,68 @@ router.use(async (req, res, next) => {
   }
 });
 
-router.post("/DeleteTravel", async (req, res, next) => {
-  console.log("DeeleteTravel");
-  const { id } = req.body;
-  console.log(id);
-  try {
-    if (!id) throw new error("id is not found ");
-    const result = await DeleteTravel(id, "followers", "travel_id");
-    const data = await DeleteTravel(id, "travels", "id");
-    if (!data) throw new error("Deleted travels fails");
-    logger.info(`travel id=${id} has just deleted`);
-    res.json("travel deleted");
-  } catch (ex) {
-    logger.error(ex);
-    res.send(ex);
-  }
-});
-
-router.post("/AddVacations", async (req, res, next) => {
-  console.log("AddVacations");
-  console.log("body", req.body);
-  try {
-    const result = await AddTravel(req.body);
-    if (result) {
-      logger.info(`${req.body.id} travel has added now`);
-      res.json("travel Added");
-    }
-  } catch (ex) {
-    console.log("ex in addVacations", ex);
-    logger.error(ex);
-    return res.send(ex);
-  }
-});
-
-router.post("/EditTravel", async (req, res, next) => {
-  console.log("EditTravel");
-  const { id } = req.query;
-  console.log("req.query:", req.query, id);
-  console.log("body", req.body);
-  try {
+router.post(
+  "/DeleteTravel",
+  getValidationFunction("DeleteTravel"),
+  async (req, res, next) => {
+    console.log("DeeleteTravel");
+    const { id } = req.body;
     console.log(id);
-    const result = await EditTravel(req.body, id);
-    if (result) {
-      logger.info(`${req.body.id} travel has edited now`);
-      res.json("travel Edited");
+    try {
+      if (!id) throw new error("id is not found ");
+      const result = await DeleteTravel(id, "followers", "travel_id");
+      const data = await DeleteTravel(id, "travels", "id");
+      if (!data) throw new error("Deleted travels fails");
+      logger.info(`travel id=${id} has just deleted`);
+      res.json("travel deleted");
+    } catch (ex) {
+      logger.error(ex);
+      res.send(ex);
     }
-  } catch (ex) {
-    console.log(ex);
-    logger.error(ex);
-    return res.send(ex);
   }
-});
+);
+
+router.post(
+  "/AddVacations",
+  getValidationFunction("AddTravel"),
+  async (req, res, next) => {
+    console.log("AddVacations");
+    console.log("body", req.body);
+    try {
+      const result = await AddTravel(req.body);
+      if (result) {
+        logger.info(`${req.body.id} travel has added now`);
+        res.json("travel Added");
+      }
+    } catch (ex) {
+      console.log("ex in addVacations", ex);
+      logger.error(ex);
+      return res.send(ex);
+    }
+  }
+);
+
+router.post(
+  "/EditTravel",
+  getValidationFunction("EditTravel"),
+  async (req, res, next) => {
+    console.log("EditTravel");
+    const { id } = req.query;
+    console.log("req.query:", req.query, id);
+    console.log("body", req.body);
+    try {
+      console.log(id);
+      const result = await EditTravel(req.body, id);
+      if (result) {
+        logger.info(`${req.body.id} travel has edited now`);
+        res.json("travel Edited");
+      }
+    } catch (ex) {
+      console.log(ex);
+      logger.error(ex);
+      return res.send(ex);
+    }
+  }
+);
 
 module.exports = router;

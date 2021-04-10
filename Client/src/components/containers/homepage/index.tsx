@@ -1,16 +1,12 @@
 import React from "react";
 import { useHistory } from "react-router-dom";
-import EditModalComponent from "../../ui-component/EditIconComponent";
 import TravelsList from "../../ui-component/TravelsList";
 import { BsPeopleCircle } from "react-icons/bs";
 import "../homepage/index.css";
 
 import ACTIONS from "../../../store/actions";
 import store from "../../../store/index";
-
-import FacebookIcon from "@material-ui/icons/Facebook";
-import InstagramIcon from "@material-ui/icons/Instagram";
-import TwitterIcon from "@material-ui/icons/Twitter";
+import BottomSideComponent from "../../ui-component/bottomSideComponent";
 
 const { dispatch } = store;
 export default function HomePage() {
@@ -92,30 +88,9 @@ export default function HomePage() {
         <div className="TravelsDiv">
           <TravelsList />
         </div>
-
-        <div className="SideBottom row">
-          <div className="col-3"></div>
-          <div className="col-3">
-            {" "}
-            <a className="IconsBottom" href="https://www.facebook.com/">
-              {" "}
-              <FacebookIcon />
-            </a>
-          </div>
-          <div className="col-3">
-            {" "}
-            <a className="IconsBottom" href="https://www.instagram.com/">
-              {" "}
-              <InstagramIcon />
-            </a>
-          </div>
-          <div className="col-3">
-            {" "}
-            <a className="IconsBottom" href="https://www.twitter.com/">
-              {" "}
-              <TwitterIcon />
-            </a>
-          </div>
+        <div>
+          {" "}
+          <BottomSideComponent />{" "}
         </div>
       </div>
     </div>

@@ -20,7 +20,6 @@ export default function SingleTravel(props: any) {
   const userTypeStore = useSelector((state: IState) => state.userType);
   console.log("userTypeStore", userTypeStore);
 
-  const [FollowState, setFollowState] = useState(true);
 
   let LocalStorageUser: any = localStorage.getItem("user");
   const user = JSON.parse(LocalStorageUser);
@@ -86,8 +85,7 @@ export default function SingleTravel(props: any) {
   };
 
   const handleFollow = async () => {
-    setFollowState(!FollowState);
-    await ChangeFollowStateAction(user.id, travel.id, FollowState);
+    await ChangeFollowStateAction(user.id, travel.id);
     await getTravelsAction();
   };
 

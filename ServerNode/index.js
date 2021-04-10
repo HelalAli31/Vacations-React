@@ -16,6 +16,7 @@ api.use("/Admin/vacations", Admin);
 
 api.use((error, req, res, next) => {
   console.log("in error handler...");
+
   res.send("Something went wrong");
 });
 

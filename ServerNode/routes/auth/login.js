@@ -5,32 +5,35 @@ const router = express.Router();
 const { signJWT } = require("../../controllers/JWT/jwt");
 const logger = require("../../logger");
 
-router.post("/login", async (req, res, next) => {
-  const { userName, password } = req.body;
-  console.log("account:", userName, password);
-  if (!userName || !password) res.send("error");
-  logger.info(`${userName} has just joined`);
+router.post(
+  "/login",
+  getValidationFunction("login"),
+  async (req, res, next) => {
+    const { userName, password } = req.body;
+    console.log("account:", userName, password);
+    if (!userName || !password) res.send("error");
+    logger.info(`${userName} has just joined`);
 
-  const result = await isUserRegistered(userName, password);
-  console.log("result:", result);
+    const result = await isUserRegistered(userName, password);
 
-  if (result) {
-    {
-      const token = await signJWT(result);
-      return res.json({
-        firstName: result.firstName,
-        lastName: result.lastName,
-        userType: result.userType,
-        userName: result.userName,
-        id: result.id,
-        token,
-      });
+    if (result) {
+      {
+        const token = await signJWT(result);
+        return res.json({
+          firstName: result.firstName,
+          lastName: result.lastName,
+          userType: result.userType,
+          userName: result.userName,
+          id: result.id,
+          token,
+        });
+      }
+    } else {
+      logger.error(`login failed by user:${userName} and password:${password}`);
+      return res.json(`Login Failed`);
     }
-  } else {
-    logger.error(`login failed by user:${userName} and password:${password}`);
-    return res.json(`Login Failed`);
   }
-});
+);
 
 router.post(
   `/register`,

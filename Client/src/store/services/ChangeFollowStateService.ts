@@ -4,8 +4,7 @@ const BASE_URL = `http://localhost:5000`;
 const API_URL = `${BASE_URL}/vacations/Followers`;
 export default async function ChangeFollowStateService(
   user_id: string,
-  travel_id: string,
-  FollowState: boolean
+  travel_id: string
 ) {
   console.log(user_id, travel_id);
   const { data } = await axios.post(
@@ -13,7 +12,6 @@ export default async function ChangeFollowStateService(
     {
       user_id,
       travel_id,
-      FollowState,
     },
     {
       headers: {
