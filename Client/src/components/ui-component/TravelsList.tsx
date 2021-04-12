@@ -10,14 +10,13 @@ export default function TravelsList() {
   const travels = useSelector((state: IState) => state.travels);
 
   useEffect(() => {
-    console.log(travels);
     getTravelsAction();
   }, []);
 
   return (
     <div className="container">
       <div className="row">
-        {travels.map((travel, index) => {
+        {travels.map((travel) => {
           return (
             <div className="col-4" key={travel.id}>
               <SingleTravel travel={travel} />

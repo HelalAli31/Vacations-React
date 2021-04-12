@@ -19,7 +19,6 @@ export default function Login() {
     try {
       const result = await LoginActionService(userName, password);
       if (result.firstName) {
-        localStorage.setItem("user", JSON.stringify(result));
         localStorage.setItem("token", JSON.stringify(result.token));
         history.push("/home");
       } else {

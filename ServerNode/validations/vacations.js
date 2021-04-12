@@ -25,7 +25,7 @@ const addTravelSchema = Joi.object().keys({
 });
 
 const validationsObj = {
-  follower: (req, res, next) => {
+  GetFollower: (req, res, next) => {
     const { error } = followerSchema.validate(req.body);
     if (error) {
       console.log(error.details);
@@ -33,7 +33,7 @@ const validationsObj = {
     }
     return next();
   },
-  getTravels: (req, res, next) => {
+  GetTravels: (req, res, next) => {
     const { error } = getTravelsSchema.validate(req.query);
     if (error) {
       console.log(error.details);

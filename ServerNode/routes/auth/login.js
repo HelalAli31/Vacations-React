@@ -10,7 +10,6 @@ router.post(
   getValidationFunction("login"),
   async (req, res, next) => {
     const { userName, password } = req.body;
-    console.log("account:", userName, password);
     if (!userName || !password) res.send("error");
     logger.info(`${userName} has just joined`);
 
@@ -40,6 +39,7 @@ router.post(
   getValidationFunction("register"),
   async (req, res, next) => {
     const { userName } = req.body;
+    if (!userName) throw new error("general error");
     try {
       const result = await isUserRegistered(userName);
       if (result) throw new Error(`User ${result.userName} is already exist`);

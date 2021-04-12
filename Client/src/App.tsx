@@ -24,7 +24,7 @@ function App() {
             </div>
           </Route>
 
-          <Route key="reports" path="/vacationsReport">
+          <Route key="Reports" path="/vacationsReport">
             <div>
               <ReportsPage />
             </div>

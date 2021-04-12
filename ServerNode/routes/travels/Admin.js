@@ -15,7 +15,6 @@ router.use(async (req, res, next) => {
     const UpdateToken = clientJwt.replace(clientJwt[0], "");
     const lastToken = UpdateToken.replace(clientJwt[UpdateToken.length], "");
     const verify = await verifyJWT(lastToken);
-    console.log("verify", verify);
     if (verify.data.userType === "admin") return next();
   } catch (error) {
     logger.error("er:", error);
@@ -27,9 +26,8 @@ router.post(
   "/DeleteTravel",
   getValidationFunction("DeleteTravel"),
   async (req, res, next) => {
-    console.log("DeeleteTravel");
     const { id } = req.body;
-    console.log(id);
+    if (!id) throw new error("general error");
     try {
       if (!id) throw new error("id is not found ");
       const result = await DeleteTravel(id, "followers", "travel_id");
@@ -48,8 +46,6 @@ router.post(
   "/AddVacations",
   getValidationFunction("AddTravel"),
   async (req, res, next) => {
-    console.log("AddVacations");
-    console.log("body", req.body);
     try {
       const result = await AddTravel(req.body);
       if (result) {
@@ -57,7 +53,6 @@ router.post(
         res.json("travel Added");
       }
     } catch (ex) {
-      console.log("ex in addVacations", ex);
       logger.error(ex);
       return res.send(ex);
     }
@@ -68,12 +63,9 @@ router.post(
   "/EditTravel",
   getValidationFunction("EditTravel"),
   async (req, res, next) => {
-    console.log("EditTravel");
     const { id } = req.query;
-    console.log("req.query:", req.query, id);
-    console.log("body", req.body);
+    if (!id) throw new error("general error");
     try {
-      console.log(id);
       const result = await EditTravel(req.body, id);
       if (result) {
         logger.info(`${req.body.id} travel has edited now`);

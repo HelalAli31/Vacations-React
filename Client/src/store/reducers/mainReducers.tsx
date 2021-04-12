@@ -2,10 +2,10 @@ import ACTIONS from "../actions";
 
 export interface IState {
   travels: Array<any>;
-  userType: string;
+  user: any;
 }
 
-const initialState: IState = { travels: [], userType: "" };
+const initialState: IState = { travels: [], user: {} };
 function mainReducer(state = initialState, action: any) {
   switch (action.type) {
     case ACTIONS.travels.GET_TRAVELS: {
@@ -16,9 +16,10 @@ function mainReducer(state = initialState, action: any) {
       };
     }
     case ACTIONS.user.GET_USERTYPE: {
+      console.log("Payload-userType:", action.payload);
       return {
         ...state,
-        userType: action.payload,
+        user: action.payload,
       };
     }
 

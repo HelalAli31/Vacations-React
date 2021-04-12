@@ -6,11 +6,13 @@ import { IState } from "../../../store/reducers/mainReducers";
 import { getTravelsAction } from "../../../store/async-actions/getTravelsAction";
 import HomeIcon from "@material-ui/icons/Home";
 import { useHistory } from "react-router";
+import { rgbToHex } from "@material-ui/core";
+import getIsAdmin from "../../../store/services/Payload/isAdmin";
 export default function ReportsPage() {
   const history = useHistory();
   const travels = useSelector((state: IState) => state.travels);
-  let LocalStorageUser: any = localStorage.getItem("user");
-  const user = JSON.parse(LocalStorageUser);
+
+  const isAdmin = getIsAdmin();
   useEffect(() => {
     getTravelsAction();
   }, []);
@@ -19,26 +21,29 @@ export default function ReportsPage() {
     datasets: [],
   };
 
-  function getRandomInt(max: number) {
-    return Math.floor(Math.random() * Math.floor(max));
-  }
+  // function getRandomInt(max: number) {
+  //   return Math.floor(Math.random() * Math.floor(max));
+  // }
   travels.map((travel) => {
-    let dataObj = {
-      label: travel.WhereTo,
-      fill: false,
-      borderColor: `rgb(${getRandomInt(200)}, ${getRandomInt(
-        200
-      )}, ${getRandomInt(200)})`,
-      borderWidth: 5,
-      pointRadius: 2,
-      data: [travel.Followers],
-    };
-    data.datasets.push(dataObj);
+    if (travel.Followers > 0) {
+      let dataObj = {
+        label: travel.WhereTo,
+        fill: false,
+        borderColor: "grey",
+        backgroundColor: "grey",
+        borderWidth: 5,
+        pointRadius: 2,
+        data: [travel.Followers],
+      };
+      data.datasets.push(dataObj);
+    }
   });
 
   var options = {
     legend: {
       position: "bottom",
+      barsOffset: 0,
+      offsetY: 25,
 
       labels: {
         boxWidth: 20,
@@ -51,9 +56,14 @@ export default function ReportsPage() {
           ticks: { display: true },
         },
       ],
+      yAxes: [
+        {
+          ticks: { min: 0, stepSize: 1 },
+        },
+      ],
     },
   };
-  if (!user) return <h1>CANT SHOW THIS PAGE BEFORE REGISTERING</h1>;
+  if (!isAdmin) return <h1>CANT SHOW THIS PAGE BEFORE REGISTERING</h1>;
 
   return (
     <div className="container">

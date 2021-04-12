@@ -43,7 +43,7 @@
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover;
   color: rgb(104, 103, 103);
-  height: 100%;
+  height: 800px;
 }
 
 .HomeButtonbtn {
@@ -105,7 +105,7 @@ body {
   font-family: "Open Sans", Arial, Verdana;
 }
 
-.hh {
+.headerCard {
   background-color: black;
 }
 
@@ -144,124 +144,17 @@ h6 {
   border-color: #ff9900;
 }
 
-.card {
-  background-color: white !important;
-
-  transition: 0.5s ease;
-  border-radius: 0;
-  transform: perspective(3em) rotateX(0deg) rotateY(1deg) rotateZ(0deg);
-}
-.card-header {
-  border-radius: 0;
-}
-.card-footer {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-}
-.card-header,
-.card-footer {
-  transition: 0.5s ease;
-}
-.card:hover {
-  border-color: #ffc107;
-  border-radius: 10%;
-  transform: perspective(0em) rotateX(0deg) rotateY(0deg) rotateZ(0deg);
-}
-.card:hover .card-header,
-.card:hover .card-footer {
-  color: #ba8b00;
-  border-color: #ffc107;
-  background-color: #ffeeba;
-}
-.card:hover .promotion-promo {
-  transform: scale(1.175) translateY(2.5px);
-  transform-origin: left center;
-}
-.card:hover .promotion-price {
-  transform: translate(2.5px, 17.5px) scale(1.15);
-  transform-origin: center right;
-}
-.card-body {
-  position: relative;
-  z-index: 0;
-  overflow: hidden;
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-}
-.card .btn {
-  font-weight: bold;
-  text-transform: uppercase;
+.CardMain {
+  margin-top: 30px;
+  height: 550px;
 }
 
-.promotion-promo {
-  font-weight: 700;
-  font-size: 1.15rem;
-  color: #ffc107;
-  font-family: "Montserrat", sans-serif;
-  text-decoration: line-through;
-  transition: 0.25s linear;
-}
-.promotion-price {
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  background: #ffc107;
-  width: 92px;
-  height: 92px;
-  padding-bottom: 0rem;
-  padding-top: 1.25rem;
-  text-align: center;
-  font-weight: 700;
-  font-family: "Montserrat", sans-serif;
-  font-size: 1.1rem;
-  border-radius: 5rem;
-  color: #fff;
-  z-index: -1;
-  transform: translate(5px, 27.5px) rotate(-9deg);
-  border: 1px dashed #fff;
-  transition: 0.25s linear;
-  line-height: 1.15;
-}
-.promotion-price-desc {
-  padding: 0;
-  margin: 0 auto;
-  text-transform: uppercase;
-  font-size: 0.9rem;
-  display: block;
-}
-.promotion-price-text {
-  padding: 0;
-  margin: 0 auto;
-  font-weight: 900;
+.TravelName {
+  font-size: 20px;
+  text-align: left;
 }
 
-.card-animate {
-  counter-reset: section;
-}
-.card-animate .card-body:before {
-  transition: 0.5s ease;
-  counter-increment: section;
-  content: "" counter(section) "";
-  display: block;
-  font-size: 15rem;
-  font-weight: 900;
-  position: absolute;
-  bottom: 5rem;
-  line-height: 0;
-  left: -0.85rem;
-  padding: 0;
-  margin: 0;
-  color: rgba(0, 0, 0, 0.1);
-  z-index: 0;
-}
-.card-animate .card:hover .card-body:before {
-  transform: translate(10px, -10px);
-}
-.card-animate .card-text {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-}
-.card-animate .card-title {
-  font-weight: 900;
-  text-transform: uppercase;
+.TravelImage {
+  width: 100%;
+  height: 250px;
 }

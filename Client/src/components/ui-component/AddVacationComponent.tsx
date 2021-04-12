@@ -9,10 +9,10 @@ import HomeIcon from "@material-ui/icons/Home";
 import "./ui.css";
 import { BsFillHouseFill } from "react-icons/bs";
 import moment from "moment";
+import getIsAdmin from "../../store/services/Payload/isAdmin";
 
 export default function AddVacationModal(props: any) {
-  let LocalStorageUser: any = localStorage.getItem("user");
-  const user = JSON.parse(LocalStorageUser);
+  const isAdmin = getIsAdmin();
 
   const history = useHistory();
   const [Name, setName] = useState("");
@@ -21,7 +21,6 @@ export default function AddVacationModal(props: any) {
   const [Description, setDescription] = useState("");
   const [StartAt, setStartAt] = useState("");
   const [EndAt, setEndAt] = useState("");
-  const [Id, setId] = useState("");
 
   const formObj: any = {
     Name: setName,
@@ -30,7 +29,6 @@ export default function AddVacationModal(props: any) {
     Description: setDescription,
     StartAt: setStartAt,
     EndAt: setEndAt,
-    Id: setId,
   };
 
   const handleOnchange = (e: any) => {
@@ -49,9 +47,7 @@ export default function AddVacationModal(props: any) {
       Description: Description || "",
       From: StartAt,
       To: EndAt,
-      id: Id,
     };
-    console.log(vacation);
     await AddTravelAction(vacation);
     await getTravelsAction();
   };
@@ -60,8 +56,7 @@ export default function AddVacationModal(props: any) {
     return Name && Price && StartAt && EndAt;
   }
 
-  if (!user || user.userType !== "admin")
-    return <h1>you are not admit sorry, cant use this page~!</h1>;
+  if (!isAdmin) return <h1>you are not admit sorry, cant use this page~!</h1>;
   return (
     <div className="AddVacationClass">
       <button
@@ -88,15 +83,6 @@ export default function AddVacationModal(props: any) {
         <h4>
           <div>
             <div className="form-group">
-              <label>Travel id:</label>
-              <input
-                className="form-control"
-                name="Id"
-                aria-describedby="emailHelp"
-                onChange={handleOnchange}
-              />
-            </div>{" "}
-            <div className="form-group">
               <label>Travel Name:</label>
               <input
                 className="form-control"
@@ -117,24 +103,26 @@ export default function AddVacationModal(props: any) {
             <div className="form-group">
               <label>Start Date:</label>
 
-              <Form.Group controlId="dob">
-                <Form.Control
-                  type="date"
-                  name="StartAt"
-                  min={moment().format()}
-                  onChange={handleOnchange}
-                />
-              </Form.Group>
+              <input
+                className="form-control"
+                type="date"
+                id="start"
+                name="StartAt"
+                defaultValue={moment(StartAt).format("YYYY-MM-DD")}
+                onChange={handleOnchange}
+              />
             </div>
             <div className="form-group">
               <label>End Date:</label>
-              <Form.Group controlId="dob">
-                <Form.Control
-                  type="date"
-                  name="EndAt"
-                  onChange={handleOnchange}
-                />
-              </Form.Group>
+              <input
+                type="date"
+                className="form-control"
+                id="start"
+                name="EndAt"
+                defaultValue={moment(EndAt).format("YYYY-MM-DD")}
+                onChange={handleOnchange}
+                min={moment(StartAt).format("YYYY-MM-DD")}
+              />
             </div>
             <div className="form-group">
               <label>Price:</label>

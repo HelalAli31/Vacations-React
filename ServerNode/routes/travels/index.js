@@ -8,6 +8,8 @@ const {
   ChangeFollowingTravel,
   getFollowerState,
   UpdateFollowersAfterDelete,
+  isFollowing,
+  getTravelsFollowingStatus,
 } = require("../../controllers/travels/index");
 
 router.use(async (req, res, next) => {
@@ -26,12 +28,21 @@ router.use(async (req, res, next) => {
   }
 });
 
-router.get("/", getValidationFunction("getTravels"), async (req, res, next) => {
+router.get("/", getValidationFunction("GetTravels"), async (req, res, next) => {
   try {
     const { id } = req.query;
+    if (!id) res.send("general error");
     const data = await getTravels(id);
     if (!data) throw new error("faild to get the travels");
     logger.info("getTravels mode on");
+    const followingTravels = await isFollowing(id);
+    console.log("ft", followingTravels);
+    followingTravels.map((followingTravel) => {
+      const followingTravelIndex = data.findIndex((d) => {
+        return d.id === followingTravel.travel_id;
+      });
+      data[followingTravelIndex].followingState = "true";
+    });
     return res.json(data);
   } catch (ex) {
     logger.error(ex);
@@ -39,11 +50,47 @@ router.get("/", getValidationFunction("getTravels"), async (req, res, next) => {
   }
 });
 
+// router.get("/", getValidationFunction("GetTravels"), async (req, res, next) => {
+//   try {
+//     const { id } = req.query;
+
+//     const followingData = await getTravelsFollowingStatus(id, "");
+//     const NotfollowingData = await getTravelsFollowingStatus(id, "!");
+//     const finalData = [...followingData, ...NotfollowingData];
+
+//     followingData.map((travel) => {
+//       travel.followingState = "true";
+//     });
+
+//     if (!Array.isArray(followingData)) return;
+//     const data = finalData.reduce((travelsObj, currentTravel) => {
+//       const { id } = currentTravel;
+
+//       const newTravel = travelsObj[id]
+//         ? {
+//             ...travelsObj[id],
+//           }
+//         : { ...currentTravel };
+//       return {
+//         ...travelsObj,
+//         [id]: newTravel,
+//       };
+//     }, {});
+//     console.log(data);
+
+//     return res.json(Object.values(data));
+//   } catch (ex) {
+//     logger.error(ex);
+//     res.send(ex);
+//   }
+// });
+
 router.post(
   "/Followers",
-  getValidationFunction("follower"),
+  getValidationFunction("GetFollower"),
   async (req, res, next) => {
     const { user_id, travel_id } = req.body;
+    if (!user_id || !travel_id) throw new error("general error");
     let query = ``;
     try {
       const UserFollowing = await getFollowerState(user_id, travel_id);

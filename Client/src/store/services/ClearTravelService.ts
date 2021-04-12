@@ -13,8 +13,7 @@ export default async function ClearTravelService(id: string) {
         },
       }
     );
-    console.log("Delete:", data);
-    return data;
+    if (data) alert(data);
   } catch (error) {
     alert(error);
   }

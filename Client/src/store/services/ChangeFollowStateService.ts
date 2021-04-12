@@ -6,7 +6,6 @@ export default async function ChangeFollowStateService(
   user_id: string,
   travel_id: string
 ) {
-  console.log(user_id, travel_id);
   const { data } = await axios.post(
     `${API_URL}`,
     {
