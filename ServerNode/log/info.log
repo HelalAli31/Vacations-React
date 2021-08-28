@@ -3117,3 +3117,615 @@
 {"message":"undefined travel has added now","level":"info","timestamp":"2021-04-12T20:26:15.413Z"}
 {"message":"getTravels mode on","level":"info","timestamp":"2021-04-12T20:26:16.656Z"}
 {"message":"getTravels mode on","level":"info","timestamp":"2021-04-12T20:26:18.607Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-04-18T14:40:37.683Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:40:37.996Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-04-18T14:40:42.906Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:40:42.944Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-04-18T14:40:44.364Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:40:44.401Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-04-18T14:40:45.411Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:40:45.447Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-04-18T14:40:45.981Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:40:46.019Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-04-18T14:40:46.957Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:40:46.995Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-04-18T14:40:47.582Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:40:47.621Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-04-18T14:40:52.290Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:40:52.328Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-04-18T14:40:53.368Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:40:53.403Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-04-18T14:40:54.556Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:40:54.596Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-04-18T14:40:55.965Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:40:55.999Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-04-18T14:41:09.294Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:41:09.333Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-04-18T14:41:12.547Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:41:12.604Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-04-18T14:41:17.215Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:41:17.282Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-04-18T14:41:21.297Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:41:21.340Z"}
+{"message":"helalali1@hotmail.com has just joined","level":"info","timestamp":"2021-04-18T14:42:19.826Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:42:20.028Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:42:33.451Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:42:37.897Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:42:43.063Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:48:39.218Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:48:40.007Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:48:41.904Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:48:42.957Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:48:44.430Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:48:45.400Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:48:47.045Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:48:50.628Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:48:56.347Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:48:57.350Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:48:58.043Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:48:58.821Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:49:15.431Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:49:16.335Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:49:17.291Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:49:18.440Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:49:25.163Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:49:27.325Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:49:28.904Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:49:33.267Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:49:41.181Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:49:43.071Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:49:54.103Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:52:19.572Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:52:20.689Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:52:29.098Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:53:24.197Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:53:25.091Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:53:27.212Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:53:28.676Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:53:37.182Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:53:39.721Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:53:40.741Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:53:44.097Z"}
+{"message":"Too many connections","code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections","level":"error","timestamp":"2021-04-18T14:53:45.084Z"}
+{"message":"Too many connections","code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections","level":"error","timestamp":"2021-04-18T14:53:48.027Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:54:02.313Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:54:08.093Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:54:12.261Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:54:15.320Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:54:18.480Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:54:52.715Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:55:03.554Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:55:04.156Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:55:07.104Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:55:10.085Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:55:22.370Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:55:28.633Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:55:34.086Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T14:55:47.241Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T17:52:11.466Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T17:52:36.559Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T17:53:14.610Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T17:54:46.656Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T17:55:06.573Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-04-18T17:55:13.125Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T17:55:13.254Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-04-18T17:55:18.795Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T17:55:18.826Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-04-18T17:55:22.153Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T17:55:22.220Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-04-18T17:55:25.760Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T17:55:25.796Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-04-18T17:55:26.244Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T17:55:26.280Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-04-18T17:55:32.490Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T17:55:32.523Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-04-18T17:55:33.200Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T17:55:33.237Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-04-18T17:55:36.211Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T17:55:36.250Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-04-18T17:55:36.841Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T17:55:36.872Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-04-18T17:55:39.138Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T17:55:39.176Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-04-18T17:55:40.870Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T17:55:40.902Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-04-18T17:55:42.596Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T17:55:42.627Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-04-18T17:55:43.916Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T17:55:43.947Z"}
+{"message":"helalali1@hotmail.com has just joined","level":"info","timestamp":"2021-04-18T17:59:15.838Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T17:59:15.988Z"}
+{"message":"undefined travel has added now","level":"info","timestamp":"2021-04-18T17:59:32.693Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T17:59:33.957Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T17:59:35.344Z"}
+{"message":"undefined travel has edited now","level":"info","timestamp":"2021-04-18T17:59:44.210Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T17:59:45.515Z"}
+{"message":"travel id=669 has just deleted","level":"info","timestamp":"2021-04-18T17:59:47.605Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T17:59:50.117Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-04-18T18:00:00.291Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T18:00:00.419Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-04-18T18:00:45.401Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T18:00:45.447Z"}
+{"message":"helalali1@hotmail.com has just joined","level":"info","timestamp":"2021-04-18T18:01:02.454Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T18:01:02.647Z"}
+{"message":"undefined travel has added now","level":"info","timestamp":"2021-04-18T18:01:23.418Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T18:01:24.849Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T18:01:25.997Z"}
+{"message":"undefined travel has edited now","level":"info","timestamp":"2021-04-18T18:01:36.080Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T18:01:37.881Z"}
+{"message":"travel id=670 has just deleted","level":"info","timestamp":"2021-04-18T18:01:39.852Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T18:01:41.311Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T18:01:45.606Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-04-18T18:02:10.276Z"}
+{"message":"helal@hotmail.com has just joined","level":"info","timestamp":"2021-06-05T10:03:32.849Z"}
+{"message":"login failed by user:helal@hotmail.com and password:helalpro789","level":"error","timestamp":"2021-06-05T10:03:33.132Z"}
+{"message":"helalpro@hotmail.com has just joined","level":"info","timestamp":"2021-06-05T10:03:38.643Z"}
+{"message":"login failed by user:helalpro@hotmail.com and password:helalpro789","level":"error","timestamp":"2021-06-05T10:03:38.650Z"}
+{"message":"helalali1@hotmail.com has just joined","level":"info","timestamp":"2021-06-05T10:03:44.670Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-06-05T10:03:44.849Z"}
+{"message":"gal has just joined","level":"info","timestamp":"2021-06-05T10:04:43.412Z"}
+{"message":"login failed by user:gal and password:123","level":"error","timestamp":"2021-06-05T10:04:43.420Z"}
+{"message":"gal has just joined","level":"info","timestamp":"2021-06-05T10:04:45.357Z"}
+{"message":"login failed by user:gal and password:123","level":"error","timestamp":"2021-06-05T10:04:45.363Z"}
+{"message":"elias_abu@gmail.com has just joined","level":"info","timestamp":"2021-06-05T10:05:17.459Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-06-05T10:05:17.554Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-06-05T10:05:21.562Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-06-05T10:05:21.583Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-06-05T10:05:23.002Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-06-05T10:05:23.023Z"}
+{"message":"helalali1@hotmail.com has just joined","level":"info","timestamp":"2021-06-14T21:23:11.451Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-06-14T21:23:11.760Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-06-14T21:23:53.879Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-06-14T21:23:55.728Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-06-14T21:24:05.936Z"}
+{"message":"elias_abu@gmail.com has just joined","level":"info","timestamp":"2021-06-14T21:24:38.326Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-06-14T21:24:38.503Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-06-14T21:24:45.753Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-06-14T21:24:45.784Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-06-14T21:24:52.857Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-06-14T21:24:52.888Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-06-14T21:24:54.824Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-06-14T21:24:54.848Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-06-14T21:24:59.460Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-06-14T21:24:59.485Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-06-14T21:25:00.282Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-06-14T21:25:00.302Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-06-14T21:25:01.044Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-06-14T21:25:01.066Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-06-14T21:25:05.917Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-06-14T21:25:05.941Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-06-14T21:25:09.403Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-06-14T21:25:09.426Z"}
+{"message":"Unknown column 'Followers' in 'field list'","code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'Followers' in 'field list'","level":"error","timestamp":"2021-06-14T21:25:10.830Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-06-14T21:25:10.854Z"}
+{"message":"elias_abu@gmail.com has just joined","level":"info","timestamp":"2021-07-09T13:30:37.439Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T13:30:37.584Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T13:42:39.525Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T13:42:43.782Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T13:42:51.553Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T13:43:17.409Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T13:43:26.988Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T13:46:21.533Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T13:46:54.261Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T13:46:54.286Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T13:51:34.532Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T13:55:04.892Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T13:57:33.054Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T13:57:55.020Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T13:57:56.029Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T13:58:15.492Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T13:58:16.889Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T14:13:47.779Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T14:15:50.580Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T14:16:08.913Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T14:19:03.227Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T14:19:04.119Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T14:19:52.531Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T14:20:10.955Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T14:20:18.445Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T14:20:32.851Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T14:20:39.861Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T14:20:50.519Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T14:21:00.626Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T14:21:45.680Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T14:23:17.458Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T18:24:56.028Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T18:26:46.301Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T18:26:51.691Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T18:32:58.244Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T18:38:22.677Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T18:38:51.886Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T18:39:39.202Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T18:40:29.268Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T18:41:46.494Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T18:42:45.295Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T18:42:47.407Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T18:42:52.752Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T18:47:33.796Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T18:48:18.538Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T18:50:09.804Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T18:50:55.470Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T18:53:42.711Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T18:53:52.009Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T18:54:13.100Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T18:54:48.069Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T18:57:51.785Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T18:59:56.647Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T19:00:20.395Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T19:01:11.162Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T19:09:00.887Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T19:10:13.540Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T19:11:06.356Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T19:12:06.844Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T19:12:11.838Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-09T19:12:53.264Z"}
+{"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2021-07-09T21:30:37.000Z","level":"error","timestamp":"2021-07-10T10:48:54.328Z"}
+{"name":"TokenExpiredError","message":"er: jwt expired","expiredAt":"2021-07-09T21:30:37.000Z","level":"error","timestamp":"2021-07-10T10:48:54.328Z","stack":"TokenExpiredError: jwt expired\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:152:21\n    at getSecret (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:90:14)\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:94:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:22:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7"}
+{"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2021-07-09T21:30:37.000Z","level":"error","timestamp":"2021-07-10T10:49:20.892Z"}
+{"name":"TokenExpiredError","message":"er: jwt expired","expiredAt":"2021-07-09T21:30:37.000Z","level":"error","timestamp":"2021-07-10T10:49:20.892Z","stack":"TokenExpiredError: jwt expired\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:152:21\n    at getSecret (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:90:14)\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:94:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:22:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7"}
+{"message":"a has just joined","level":"info","timestamp":"2021-07-10T10:49:38.703Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T10:49:39.059Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T10:55:40.486Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T10:55:43.228Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T10:56:20.337Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T10:57:00.911Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T16:59:25.914Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T16:59:42.795Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T16:59:48.908Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:04:28.623Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:17:46.295Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:17:47.027Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:17:48.151Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:17:49.075Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:19:02.045Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:19:04.622Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:19:06.286Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:20:54.279Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:22:09.985Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:22:14.043Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:23:00.133Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:23:26.051Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:23:40.131Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:24:32.061Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:24:52.077Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:25:29.412Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:26:44.240Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:27:21.378Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:27:35.991Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:27:52.459Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:28:13.238Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:28:51.120Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:29:10.275Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:30:26.085Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:31:58.059Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:33:30.346Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:35:02.185Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:35:20.819Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:36:50.117Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:37:58.575Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:38:03.711Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:38:46.075Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:38:59.075Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:40:26.092Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:40:44.056Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:41:19.258Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:41:29.099Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:42:57.096Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:43:01.044Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:43:05.228Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:43:22.738Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:43:24.341Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:43:30.157Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T17:43:57.308Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T18:15:39.950Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T18:16:05.248Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T18:16:47.652Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T18:17:38.062Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T18:20:20.895Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T18:20:54.588Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T18:20:59.078Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T18:21:06.093Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T18:22:07.125Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T18:22:22.090Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T18:22:33.246Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T18:22:48.709Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T18:22:52.592Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-10T18:23:58.626Z"}
+{"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2021-07-10T18:49:38.000Z","level":"error","timestamp":"2021-07-13T14:38:42.765Z"}
+{"name":"TokenExpiredError","message":"er: jwt expired","expiredAt":"2021-07-10T18:49:38.000Z","level":"error","timestamp":"2021-07-13T14:38:42.765Z","stack":"TokenExpiredError: jwt expired\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:152:21\n    at getSecret (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:90:14)\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:94:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:22:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7"}
+{"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2021-07-10T18:49:38.000Z","level":"error","timestamp":"2021-07-13T14:39:44.789Z"}
+{"name":"TokenExpiredError","message":"er: jwt expired","expiredAt":"2021-07-10T18:49:38.000Z","level":"error","timestamp":"2021-07-13T14:39:44.789Z","stack":"TokenExpiredError: jwt expired\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:152:21\n    at getSecret (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:90:14)\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:94:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:22:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7"}
+{"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2021-07-10T18:49:38.000Z","level":"error","timestamp":"2021-07-13T14:42:18.784Z"}
+{"name":"TokenExpiredError","message":"er: jwt expired","expiredAt":"2021-07-10T18:49:38.000Z","level":"error","timestamp":"2021-07-13T14:42:18.784Z","stack":"TokenExpiredError: jwt expired\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:152:21\n    at getSecret (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:90:14)\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:94:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:22:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7"}
+{"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2021-07-10T18:49:38.000Z","level":"error","timestamp":"2021-07-13T14:42:22.396Z"}
+{"name":"TokenExpiredError","message":"er: jwt expired","expiredAt":"2021-07-10T18:49:38.000Z","level":"error","timestamp":"2021-07-13T14:42:22.396Z","stack":"TokenExpiredError: jwt expired\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:152:21\n    at getSecret (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:90:14)\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:94:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:22:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7"}
+{"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2021-07-10T18:49:38.000Z","level":"error","timestamp":"2021-07-13T14:42:24.279Z"}
+{"name":"TokenExpiredError","message":"er: jwt expired","expiredAt":"2021-07-10T18:49:38.000Z","level":"error","timestamp":"2021-07-13T14:42:24.279Z","stack":"TokenExpiredError: jwt expired\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:152:21\n    at getSecret (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:90:14)\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:94:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:22:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7"}
+{"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2021-07-10T18:49:38.000Z","level":"error","timestamp":"2021-07-13T14:43:20.681Z"}
+{"name":"TokenExpiredError","message":"er: jwt expired","expiredAt":"2021-07-10T18:49:38.000Z","level":"error","timestamp":"2021-07-13T14:43:20.681Z","stack":"TokenExpiredError: jwt expired\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:152:21\n    at getSecret (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:90:14)\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:94:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:22:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7"}
+{"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2021-07-10T18:49:38.000Z","level":"error","timestamp":"2021-07-13T14:45:46.052Z"}
+{"name":"TokenExpiredError","message":"er: jwt expired","expiredAt":"2021-07-10T18:49:38.000Z","level":"error","timestamp":"2021-07-13T14:45:46.052Z","stack":"TokenExpiredError: jwt expired\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:152:21\n    at getSecret (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:90:14)\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:94:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:22:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7"}
+{"message":"a has just joined","level":"info","timestamp":"2021-07-13T14:46:04.269Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T14:46:04.581Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T14:46:23.314Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T14:47:44.236Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T14:48:31.477Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T14:50:36.230Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T14:51:15.353Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T14:51:37.502Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T14:51:42.804Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T14:51:46.704Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T14:53:27.193Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T14:53:55.487Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T14:54:01.873Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T14:54:12.443Z"}
+{"message":"Too many connections","code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections","level":"error","timestamp":"2021-07-13T14:54:12.451Z"}
+{"message":"Too many connections","code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections","level":"error","timestamp":"2021-07-13T14:54:26.572Z"}
+{"message":"Too many connections","code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections","level":"error","timestamp":"2021-07-13T14:54:34.801Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T14:56:00.175Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T14:58:02.439Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:03:55.579Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:04:01.424Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:04:35.919Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:04:40.091Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:05:07.527Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:05:41.603Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:09:03.667Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:09:56.519Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:10:03.334Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:11:27.107Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:14:34.840Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:14:48.468Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:15:10.494Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:15:28.131Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:16:08.507Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:16:22.662Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:16:32.647Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:17:04.513Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:31:04.705Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:34:14.908Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:38:16.339Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:39:34.615Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:40:09.505Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:40:26.457Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:41:47.790Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:44:51.636Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:49:17.434Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:53:39.438Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:53:53.440Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:54:19.407Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:54:34.505Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:54:43.420Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:54:54.409Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:55:35.451Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:56:24.412Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:56:57.419Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:58:26.395Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T15:58:32.747Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T16:02:40.298Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T16:03:53.479Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:14:31.292Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:15:06.776Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:16:58.743Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:17:17.568Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:17:25.549Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:17:35.642Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:17:47.590Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:17:48.495Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:19:01.885Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:19:37.097Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:21:42.727Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:23:26.876Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:24:00.269Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:24:15.625Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:25:21.730Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:25:56.683Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:26:18.987Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:26:35.570Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:26:39.233Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:27:26.610Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:28:15.720Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:29:00.539Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:29:10.428Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:29:16.718Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:29:25.054Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:37:28.557Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:39:10.379Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:41:58.484Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:42:54.481Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:44:36.446Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:46:43.610Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:47:47.774Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:48:06.921Z"}
+{"message":"Too many connections","code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections","level":"error","timestamp":"2021-07-13T17:49:46.407Z"}
+{"message":"Too many connections","code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections","level":"error","timestamp":"2021-07-13T17:49:49.523Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:50:23.550Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:50:56.695Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:51:27.193Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-13T17:55:11.098Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-07-15T16:08:40.284Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-15T16:08:40.766Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-15T16:08:43.444Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-15T16:10:01.901Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-15T16:10:39.905Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-07-18T16:17:53.615Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-18T16:17:54.103Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-18T16:24:51.229Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-18T16:25:06.292Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-18T16:25:21.069Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-18T16:27:45.371Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-18T16:29:21.555Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-18T16:30:57.885Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-18T16:32:12.298Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-18T16:36:26.219Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-18T16:37:00.218Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-18T16:42:49.201Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-07-27T17:56:09.654Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T17:56:10.159Z"}
+{"message":"Table 'travels_db.places' doesn't exist","code":"ER_NO_SUCH_TABLE","errno":1146,"sqlState":"42S02","sqlMessage":"Table 'travels_db.places' doesn't exist","level":"error","timestamp":"2021-07-27T18:34:43.200Z"}
+{"message":"Table 'travels_db.places' doesn't exist","code":"ER_NO_SUCH_TABLE","errno":1146,"sqlState":"42S02","sqlMessage":"Table 'travels_db.places' doesn't exist","level":"error","timestamp":"2021-07-27T18:34:45.167Z"}
+{"message":"Table 'travels_db.places' doesn't exist","code":"ER_NO_SUCH_TABLE","errno":1146,"sqlState":"42S02","sqlMessage":"Table 'travels_db.places' doesn't exist","level":"error","timestamp":"2021-07-27T18:34:48.283Z"}
+{"message":"Table 'travels_db.places' doesn't exist","code":"ER_NO_SUCH_TABLE","errno":1146,"sqlState":"42S02","sqlMessage":"Table 'travels_db.places' doesn't exist","level":"error","timestamp":"2021-07-27T18:35:09.518Z"}
+{"message":"Table 'travels_db.places' doesn't exist","code":"ER_NO_SUCH_TABLE","errno":1146,"sqlState":"42S02","sqlMessage":"Table 'travels_db.places' doesn't exist","level":"error","timestamp":"2021-07-27T18:35:34.002Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T18:36:03.710Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T18:56:18.715Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:03:39.983Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:11:11.358Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:12:16.621Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:12:56.360Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:27:32.700Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:27:40.677Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:27:42.765Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:27:59.683Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:28:19.539Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:33:40.931Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:33:45.108Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:34:38.802Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:34:45.711Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:35:09.907Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:36:39.003Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:36:46.195Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:36:48.229Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:37:25.369Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:37:52.564Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:37:56.791Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:38:39.977Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:38:45.696Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:38:57.972Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:39:57.236Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:44:03.686Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:45:16.700Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:46:31.615Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:46:37.655Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:52:19.040Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:53:29.688Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:53:38.658Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:54:16.699Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:54:20.679Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:54:34.699Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:55:28.658Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:55:29.676Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:55:33.657Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:55:35.749Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:56:13.798Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:57:16.898Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:57:29.831Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:57:34.656Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:57:59.668Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:58:04.669Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:58:08.648Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:58:38.769Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T19:58:48.672Z"}
+{"level":"error","message":"er: Cannot read property 'replace' of undefined","stack":"TypeError: Cannot read property 'replace' of undefined\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:19:35\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)","timestamp":"2021-07-27T20:02:17.918Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:05:15.919Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:05:23.234Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:05:33.237Z"}
+{"name":"JsonWebTokenError","message":"invalid token","level":"error","timestamp":"2021-07-27T20:11:14.736Z"}
+{"name":"JsonWebTokenError","message":"er: invalid token","level":"error","timestamp":"2021-07-27T20:11:14.736Z","stack":"JsonWebTokenError: invalid token\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:75:17)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:22:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:275:10)"}
+{"name":"JsonWebTokenError","message":"invalid token","level":"error","timestamp":"2021-07-27T20:11:40.314Z"}
+{"name":"JsonWebTokenError","message":"er: invalid token","level":"error","timestamp":"2021-07-27T20:11:40.314Z","stack":"JsonWebTokenError: invalid token\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:75:17)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:22:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:275:10)"}
+{"name":"JsonWebTokenError","message":"invalid token","level":"error","timestamp":"2021-07-27T20:11:54.658Z"}
+{"name":"JsonWebTokenError","message":"er: invalid token","level":"error","timestamp":"2021-07-27T20:11:54.658Z","stack":"JsonWebTokenError: invalid token\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:75:17)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:22:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:275:10)"}
+{"name":"JsonWebTokenError","message":"invalid token","level":"error","timestamp":"2021-07-27T20:12:57.627Z"}
+{"name":"JsonWebTokenError","message":"er: invalid token","level":"error","timestamp":"2021-07-27T20:12:57.627Z","stack":"JsonWebTokenError: invalid token\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:75:17)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:22:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:275:10)"}
+{"name":"JsonWebTokenError","message":"invalid token","level":"error","timestamp":"2021-07-27T20:15:04.285Z"}
+{"name":"JsonWebTokenError","message":"er: invalid token","level":"error","timestamp":"2021-07-27T20:15:04.285Z","stack":"JsonWebTokenError: invalid token\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:75:17)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:22:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:275:10)"}
+{"name":"JsonWebTokenError","message":"invalid token","level":"error","timestamp":"2021-07-27T20:15:10.228Z"}
+{"name":"JsonWebTokenError","message":"er: invalid token","level":"error","timestamp":"2021-07-27T20:15:10.228Z","stack":"JsonWebTokenError: invalid token\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:75:17)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:22:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:275:10)"}
+{"name":"JsonWebTokenError","message":"invalid token","level":"error","timestamp":"2021-07-27T20:15:40.285Z"}
+{"name":"JsonWebTokenError","message":"er: invalid token","level":"error","timestamp":"2021-07-27T20:15:40.285Z","stack":"JsonWebTokenError: invalid token\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:75:17)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:22:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:275:10)"}
+{"name":"JsonWebTokenError","message":"invalid token","level":"error","timestamp":"2021-07-27T20:16:21.916Z"}
+{"name":"JsonWebTokenError","message":"er: invalid token","level":"error","timestamp":"2021-07-27T20:16:21.916Z","stack":"JsonWebTokenError: invalid token\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:75:17)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:22:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:275:10)"}
+{"name":"JsonWebTokenError","message":"invalid token","level":"error","timestamp":"2021-07-27T20:16:38.004Z"}
+{"name":"JsonWebTokenError","message":"er: invalid token","level":"error","timestamp":"2021-07-27T20:16:38.004Z","stack":"JsonWebTokenError: invalid token\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:75:17)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:22:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:275:10)"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:18:55.673Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:19:17.863Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:19:20.337Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:19:26.757Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:32:50.705Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:33:00.756Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:33:01.608Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:33:02.335Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:33:02.720Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:33:03.026Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:33:03.267Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:33:03.469Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:33:03.650Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:33:03.864Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:33:04.042Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:33:04.219Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:33:04.391Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:33:04.548Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:33:04.702Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:33:05.099Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:33:05.305Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:34:41.877Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:35:02.012Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:35:27.839Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:35:32.157Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:36:06.768Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:36:11.299Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:36:34.775Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:36:35.525Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:36:58.934Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:37:53.089Z"}
+{"message":"getTravels mode on","level":"info","timestamp":"2021-07-27T20:38:12.510Z"}
+{"level":"error","timestamp":"2021-07-27T20:39:44.756Z"}
+{"level":"error","timestamp":"2021-07-27T20:39:59.394Z"}
+{"level":"error","timestamp":"2021-07-27T20:40:01.657Z"}
+{"level":"error","timestamp":"2021-07-27T20:40:09.557Z"}
+{"level":"error","message":"er: Cannot read property 'replace' of undefined","stack":"TypeError: Cannot read property 'replace' of undefined\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:19:35\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)","timestamp":"2021-07-27T20:41:10.786Z"}
+{"level":"error","message":"er: Cannot read property 'replace' of undefined","stack":"TypeError: Cannot read property 'replace' of undefined\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:19:35\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)","timestamp":"2021-07-27T20:41:18.929Z"}
+{"level":"error","message":"er: Cannot read property 'replace' of undefined","stack":"TypeError: Cannot read property 'replace' of undefined\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:19:35\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)","timestamp":"2021-07-27T20:41:24.980Z"}
+{"level":"error","message":"er: Cannot read property 'replace' of undefined","stack":"TypeError: Cannot read property 'replace' of undefined\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:19:35\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)","timestamp":"2021-07-27T20:41:27.883Z"}
+{"level":"error","message":"er: Cannot read property 'replace' of undefined","stack":"TypeError: Cannot read property 'replace' of undefined\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:19:35\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)","timestamp":"2021-07-27T20:41:54.959Z"}
+{"level":"error","message":"er: Cannot read property 'replace' of undefined","stack":"TypeError: Cannot read property 'replace' of undefined\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:19:35\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)","timestamp":"2021-07-27T20:42:15.931Z"}
+{"level":"error","timestamp":"2021-07-27T20:48:37.842Z"}
+{"level":"error","timestamp":"2021-07-27T20:48:44.862Z"}
+{"level":"error","timestamp":"2021-07-27T20:49:21.114Z"}
+{"level":"error","timestamp":"2021-07-27T20:49:24.465Z"}
+{"level":"error","timestamp":"2021-07-27T20:49:37.697Z"}
+{"level":"error","timestamp":"2021-07-27T20:49:39.147Z"}
+{"level":"error","timestamp":"2021-07-27T20:49:56.899Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-07-27T20:58:56.594Z"}
+{"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2021-07-28T04:58:56.000Z","level":"error","timestamp":"2021-07-29T21:57:15.225Z"}
+{"name":"TokenExpiredError","message":"er: jwt expired","expiredAt":"2021-07-28T04:58:56.000Z","level":"error","timestamp":"2021-07-29T21:57:15.225Z","stack":"TokenExpiredError: jwt expired\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:152:21\n    at getSecret (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:90:14)\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:94:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:21:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7"}
+{"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2021-07-28T04:58:56.000Z","level":"error","timestamp":"2021-07-29T21:57:31.371Z"}
+{"name":"TokenExpiredError","message":"er: jwt expired","expiredAt":"2021-07-28T04:58:56.000Z","level":"error","timestamp":"2021-07-29T21:57:31.371Z","stack":"TokenExpiredError: jwt expired\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:152:21\n    at getSecret (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:90:14)\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:94:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:21:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7"}
+{"message":"a has just joined","level":"info","timestamp":"2021-07-29T21:57:45.100Z"}
+{"message":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''umi' at line 6","code":"ER_PARSE_ERROR","errno":1064,"sqlState":"42000","sqlMessage":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''umi' at line 6","level":"error","timestamp":"2021-07-29T22:07:51.977Z"}
+{"message":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''umi' at line 6","code":"ER_PARSE_ERROR","errno":1064,"sqlState":"42000","sqlMessage":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''umi' at line 6","level":"error","timestamp":"2021-07-29T22:08:08.130Z"}
+{"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2021-07-30T05:57:45.000Z","level":"error","timestamp":"2021-07-30T23:15:43.543Z"}
+{"name":"TokenExpiredError","message":"er: jwt expired","expiredAt":"2021-07-30T05:57:45.000Z","level":"error","timestamp":"2021-07-30T23:15:43.543Z","stack":"TokenExpiredError: jwt expired\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:152:21\n    at getSecret (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:90:14)\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:94:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:21:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7"}
+{"message":"a has just joined","level":"info","timestamp":"2021-07-30T23:15:50.262Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-08-08T18:28:11.138Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-08-10T16:15:13.861Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-08-10T16:16:59.109Z"}
+{"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2021-08-11T00:16:59.000Z","level":"error","timestamp":"2021-08-11T16:59:19.731Z"}
+{"name":"TokenExpiredError","message":"er: jwt expired","expiredAt":"2021-08-11T00:16:59.000Z","level":"error","timestamp":"2021-08-11T16:59:19.731Z","stack":"TokenExpiredError: jwt expired\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:152:21\n    at getSecret (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:90:14)\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:94:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:21:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7"}
+{"message":"a has just joined","level":"info","timestamp":"2021-08-11T16:59:28.213Z"}
+{"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2021-08-12T00:59:28.000Z","level":"error","timestamp":"2021-08-17T17:10:22.282Z"}
+{"name":"TokenExpiredError","message":"er: jwt expired","expiredAt":"2021-08-12T00:59:28.000Z","level":"error","timestamp":"2021-08-17T17:10:22.282Z","stack":"TokenExpiredError: jwt expired\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:152:21\n    at getSecret (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:90:14)\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:94:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:21:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7"}
+{"message":"a has just joined","level":"info","timestamp":"2021-08-17T17:10:28.401Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-08-17T17:10:28.423Z"}
+{"message":"Too many connections","code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections","level":"error","timestamp":"2021-08-17T17:51:21.972Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-08-17T18:35:35.053Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-08-19T22:23:33.497Z"}
+{"message":"Too many connections","code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections","level":"error","timestamp":"2021-08-19T22:35:54.813Z"}
+{"message":"Too many connections","code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections","level":"error","timestamp":"2021-08-19T22:36:04.883Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-08-19T22:50:18.031Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-08-19T22:50:20.252Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-08-19T22:50:24.470Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-08-19T22:50:33.701Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-08-21T20:55:16.025Z"}
+{"name":"TokenExpiredError","message":"jwt expired","expiredAt":"2021-08-22T04:55:16.000Z","level":"error","timestamp":"2021-08-22T13:33:17.513Z"}
+{"name":"TokenExpiredError","message":"er: jwt expired","expiredAt":"2021-08-22T04:55:16.000Z","level":"error","timestamp":"2021-08-22T13:33:17.513Z","stack":"TokenExpiredError: jwt expired\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:152:21\n    at getSecret (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:90:14)\n    at Object.module.exports [as verify] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\jsonwebtoken\\verify.js:94:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:24:9\n    at new Promise (<anonymous>)\n    at verifyJWT (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\controllers\\JWT\\jwt.js:23:10)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\routes\\travels\\index.js:21:26\n    at Layer.handle [as handle_request] (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Helal\\Desktop\\PROJECTS\\Vacations_project\\ServerNode\\node_modules\\express\\lib\\router\\index.js:284:7"}
+{"message":"a has just joined","level":"info","timestamp":"2021-08-22T13:33:27.064Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-08-24T16:24:03.951Z"}
+{"message":"Too many connections","code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections","level":"error","timestamp":"2021-08-24T16:31:51.354Z"}
+{"message":"Too many connections","code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections","level":"error","timestamp":"2021-08-24T16:31:54.017Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-08-24T16:44:22.308Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-08-24T16:45:05.128Z"}
+{"message":"a has just joined","level":"info","timestamp":"2021-08-24T17:02:41.392Z"}
+{"message":"Too many connections","code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections","level":"error","timestamp":"2021-08-24T17:15:20.342Z"}
+{"message":"Too many connections","code":"ER_CON_COUNT_ERROR","errno":1040,"sqlState":"","sqlMessage":"Too many connections","level":"error","timestamp":"2021-08-24T17:15:26.897Z"}

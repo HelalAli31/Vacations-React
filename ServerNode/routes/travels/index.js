@@ -5,6 +5,7 @@ const logger = require("../../logger");
 const getValidationFunction = require("../../validations/vacations.js");
 const {
   getTravels,
+  getSearchVacations,
   ChangeFollowingTravel,
   getFollowerState,
   UpdateFollowersAfterDelete,
@@ -15,12 +16,9 @@ const {
 router.use(async (req, res, next) => {
   try {
     const clientJwt = req.headers.authorization;
-    console.log("client Token:", clientJwt);
     const UpdateToken = clientJwt.replace(clientJwt[0], "");
     const lastToken = UpdateToken.replace(clientJwt[UpdateToken.length], "");
-    console.log("token from middlewear", lastToken);
     const verify = await verifyJWT(lastToken);
-    console.log("verify", verify);
     if (verify) return next();
   } catch (error) {
     logger.error("er:", error);
@@ -30,13 +28,14 @@ router.use(async (req, res, next) => {
 
 router.get("/", getValidationFunction("GetTravels"), async (req, res, next) => {
   try {
+    console.log("AA");
     const { id } = req.query;
+    const { distination, from, to } = req.headers;
     if (!id) res.send("general error");
-    const data = await getTravels(id);
+    const data = await getTravels(id, { distination, from, to });
+    console.log(data);
     if (!data) throw new error("faild to get the travels");
-    logger.info("getTravels mode on");
     const followingTravels = await isFollowing(id);
-    console.log("ft", followingTravels);
     followingTravels.map((followingTravel) => {
       const followingTravelIndex = data.findIndex((d) => {
         return d.id === followingTravel.travel_id;
@@ -49,41 +48,6 @@ router.get("/", getValidationFunction("GetTravels"), async (req, res, next) => {
     res.send(ex);
   }
 });
-
-// router.get("/", getValidationFunction("GetTravels"), async (req, res, next) => {
-//   try {
-//     const { id } = req.query;
-
-//     const followingData = await getTravelsFollowingStatus(id, "");
-//     const NotfollowingData = await getTravelsFollowingStatus(id, "!");
-//     const finalData = [...followingData, ...NotfollowingData];
-
-//     followingData.map((travel) => {
-//       travel.followingState = "true";
-//     });
-
-//     if (!Array.isArray(followingData)) return;
-//     const data = finalData.reduce((travelsObj, currentTravel) => {
-//       const { id } = currentTravel;
-
-//       const newTravel = travelsObj[id]
-//         ? {
-//             ...travelsObj[id],
-//           }
-//         : { ...currentTravel };
-//       return {
-//         ...travelsObj,
-//         [id]: newTravel,
-//       };
-//     }, {});
-//     console.log(data);
-
-//     return res.json(Object.values(data));
-//   } catch (ex) {
-//     logger.error(ex);
-//     res.send(ex);
-//   }
-// });
 
 router.post(
   "/Followers",

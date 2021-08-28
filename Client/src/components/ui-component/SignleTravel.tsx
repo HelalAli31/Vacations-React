@@ -18,9 +18,20 @@ import CardActionArea from "@material-ui/core/CardActionArea";
 import CardContent from "@material-ui/core/CardContent";
 import CardMedia from "@material-ui/core/CardMedia";
 import Typography from "@material-ui/core/Typography";
+import { useSelector } from "react-redux";
+import { IState } from "../../store/reducers/mainReducers";
+import moment from "moment";
+import { Button } from "react-bootstrap";
+import ACTIONS from "../../store/actions";
+import store from "../../store/index";
+import SearchPage from "./SearchPage/Search";
+import MainPage from "./MainPage/Main";
+const { dispatch } = store;
 
 export default function SingleTravel(props: any) {
   const { travel } = props;
+  const search = useSelector((state: IState) => state.searchVacations);
+  console.log(travel);
 
   const useStyles = makeStyles({
     root: {
@@ -36,7 +47,6 @@ export default function SingleTravel(props: any) {
   const isAdmin = getIsAdmin();
 
   const token: any = localStorage.getItem("token");
-  if (token) console.log("SPT", token);
 
   const showAdditionalInfo = () => {
     return <GetMoreInfoComponent {...travel} />;
@@ -90,31 +100,33 @@ export default function SingleTravel(props: any) {
   };
   const classes = useStyles();
 
-  return (
-    <div className="CardMain">
-      <Card className={classes.root}>
-        <div className="row">
-          <h3 className="TravelName col-9 ">{travel.WhereTo}</h3>
-          <span className="col-2">{IconsSide()}</span>
+  const searchData = () => {
+    return search.distination ? <h1>{informationTravel()}</h1> : <h2>AS</h2>;
+  };
+  const informationTravel = () => {
+    const StartTrip: any = moment(travel.From).format("DD/MM/YYYY");
+    const EndTrip: any = moment(travel.To).format("DD/MM/YYYY");
+
+    return (
+      <div>
+        <div className="row col-12 SearchCard p-3">
+          <SearchPage travel={travel} />
         </div>
-        <CardActionArea>
-          <CardMedia
-            className="TravelImage"
-            image={
-              travel.Image
-                ? travel.Image
-                : "https://www.google.co.il/search?q=no+image&sxsrf=ALeKk03jmnYK1_fYwLlYWrQf0Andpmpxag:1618234838769&tbm=isch&source=iu&ictx=1&fir=r_eCQ0GQ0UO8ZM%252CH0F39Afu_F6SBM%252C_&vet=1&usg=AI4_-kR66hd3w82I-zg5-JdLlcigCb22CQ&sa=X&ved=2ahUKEwja-OjF6vjvAhVLD2MBHfHNA88Q9QF6BAgQEAE#imgrc=r_eCQ0GQ0UO8ZM"
-            }
-            title="Contemplative Reptile"
-          />
-          <CardContent style={{ textAlign: "left" }}>
-            <h2>{travel.Price} $</h2>
-            <Typography variant="body2" color="textSecondary" component="p">
-              <div>{showAdditionalInfo()}</div>
-            </Typography>
-          </CardContent>
-        </CardActionArea>
-      </Card>
-    </div>
+      </div>
+    );
+  };
+
+  const MainCard = () => {
+    return (
+      <div className="CardMain">
+        <MainPage travel={travel} />
+      </div>
+    );
+  };
+  const SearchCard = () => {
+    return <div className=" mt-3">{informationTravel()}</div>;
+  };
+  return (
+    <div>{search.distination ? SearchCard() : <div>{MainCard()}</div>}</div>
   );
 }

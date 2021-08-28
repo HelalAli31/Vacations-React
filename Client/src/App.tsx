@@ -30,6 +30,12 @@ function App() {
             </div>
           </Route>
 
+          <Route key="SearchPage" path="/SearchPage">
+            <div>
+              <ReportsPage />
+            </div>
+          </Route>
+
           <Route key="AddVacation" path="/AddVacation">
             <div>
               <AddVacationComponent />

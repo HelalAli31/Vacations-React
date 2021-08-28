@@ -3,9 +3,10 @@ import ACTIONS from "../actions";
 export interface IState {
   travels: Array<any>;
   user: any;
+  searchVacations: any;
 }
 
-const initialState: IState = { travels: [], user: {} };
+const initialState: IState = { travels: [], user: {}, searchVacations: {} };
 function mainReducer(state = initialState, action: any) {
   switch (action.type) {
     case ACTIONS.travels.GET_TRAVELS: {
@@ -20,6 +21,12 @@ function mainReducer(state = initialState, action: any) {
       return {
         ...state,
         user: action.payload,
+      };
+    }
+    case ACTIONS.searchVacations: {
+      return {
+        ...state,
+        searchVacations: action.payload,
       };
     }
 

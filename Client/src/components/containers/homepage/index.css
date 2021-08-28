@@ -16,3 +16,45 @@
   width: 90%;
   margin-top: 10px;
 }
+.Main {
+  background-color: #f8f8f8;
+  width: 100%;
+}
+.SearchBody {
+  width: 900px;
+  height: 130px;
+  opacity: 0.5;
+  background-color: black;
+  color: white;
+  position: absolute;
+  bottom: 80px;
+  left: 23%;
+  text-align: left;
+  margin-left: 10px;
+  padding: 20px;
+}
+.SearchBody > h5 {
+  font-size: 18px;
+}
+.TopSide {
+  position: relative;
+}
+.Input1 {
+  border: none;
+  padding: 12px;
+  width: 350px;
+  outline: none;
+  font-family: "Font Awesome 5 Free";
+  font-weight: 700;
+}
+
+.Countries2 {
+  background-color: white;
+  color: black;
+  opacity: 1;
+  width: 119.5%;
+  padding-left: 25px;
+  font-size: 20px;
+  overflow-y: scroll;
+  max-height: 95px;
+}

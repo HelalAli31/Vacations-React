@@ -22,7 +22,7 @@ router.use(async (req, res, next) => {
   }
 });
 
-router.post(
+router.post(  
   "/DeleteTravel",
   getValidationFunction("DeleteTravel"),
   async (req, res, next) => {

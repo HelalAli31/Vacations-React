@@ -7,16 +7,32 @@ async function getFollowersForTravel(travel_id) {
   return rows;
 }
 
-async function getTravels(id) {
-  const query = ` Select  *, COUNT(travel_id) AS Followers
+async function getTravels(id, searchInfo) {
+  console.log(searchInfo);
+  console.log(searchInfo.distination);
+
+  const querySearch = `  Select  *
   FROM
-      travels_db.followers
-    right join travels_db.travels on  travels_db.followers.travel_id=travels.id
-   group by travels.id
-   order by followers.user_id=${id} desc ,travels.From ASC,Followers DESC;  `;
+     travels_db.travels
+      left join travels_db.hotels on travels_db.travels.Hotel=hotels.id
+      left join travels_db.destinations on travels_db.hotels.city_id=destinations.id
+      left join travels_db.room_types on travels_db.hotels.room_type_id=room_types.id
+      where city="${searchInfo.distination}";
+  `;
+
+  const queryMain = `SELECT * FROM travels_db.destinations;`;
+  const query = searchInfo.distination != "undefined" ? querySearch : queryMain;
+  console.log(query);
   const [rows] = await (await connection()).execute(query);
   return rows;
 }
+async function getSearchVacations(search) {
+  console.log(search);
+  const query = `SELECT * FROM travels_db.destinations;`;
+  const [rows] = await (await connection()).execute(query);
+  return rows;
+}
+
 async function getTravelsFollowingStatus(id, state) {
   const query = `   SELECT  user_id,travels.id,travels.Description,travels.WhereTo,travels.Image,travels.From,travels.To,travels.Price ,count(followers.travel_id) as Followers FROM travels_db.followers
   right join travels_db.travels on  travels_db.followers.travel_id=travels.id
@@ -84,5 +100,6 @@ module.exports = {
   EditTravel,
   AddTravel,
   isFollowing,
+  getSearchVacations,
   getTravelsFollowingStatus,
 };

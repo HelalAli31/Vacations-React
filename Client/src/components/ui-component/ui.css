@@ -150,11 +150,89 @@ h6 {
 }
 
 .TravelName {
-  font-size: 20px;
+  font-size: 17px;
+  color: grey;
   text-align: left;
 }
+.TravelPrice {
+  text-align: right;
+}
 
+.ToolbarName {
+  text-align: left;
+  position: relative;
+}
+.CompanyDiv {
+  text-align: left;
+  font-family: "Alfa Slab One", cursive;
+}
+.CompanyComment {
+  font-size: 13px;
+}
+
+.CompanyName {
+  font-weight: 900;
+}
+
+/* TravelsList */
+.LeftSide {
+  border: 1px solid black;
+  min-height: 100px;
+  height: 100%;
+}
+.CheckBoxCss {
+  width: 18px;
+  height: 18px;
+}
+
+/* #SingleTravel */
+
+.SearchCard {
+  height: 100%;
+  max-width: 850px !important;
+  min-height: 100px;
+  border: 1px solid #c6c6c6;
+  text-align: left;
+  position: relative;
+}
+.TravelImage2 {
+  width: 250px !important;
+  height: 190px;
+}
 .TravelImage {
   width: 100%;
-  height: 250px;
+  height: 300px;
+}
+
+.HotelName {
+  color: #003580;
+  font-weight: bold;
+  font-size: x-large;
+}
+
+.RoomType {
+  font-size: 16px;
+}
+.BedType {
+  font-size: 13px;
+}
+.leftRooms {
+  font-size: 14px;
+  color: #c00;
+}
+.RightSide {
+  text-align: right;
+  float: right;
+  margin-left: 60px;
+}
+.stars {
+  background-color: #003580;
+  color: white;
+  padding: 10px;
+
+  border-radius: 5.81818px 5.81818px 5.81818px 0;
+}
+.SeeDetailsButton {
+  margin-top: 100px;
+  background-color: #003580 !important;
 }

@@ -32,63 +32,46 @@ export default function Login() {
   return (
     <div className="Auth">
       <div className="container AuthCard">
-        <h1>Login</h1>
-        <br />
-        <Form>
-          <Form.Group>
-            <div className="row">
+        <div className="MainContent row">
+          <div className="col-6">
+            <div className="Text ">
               {" "}
-              <h4 className="col-5">UserName:</h4>
-              <div className="col-7">
-                <Form.Control
-                  autoFocus
-                  type="userName"
+              <div className="FirstText">
+                <span>Welcome to our</span>
+                <br />
+                <span>Pretty Login</span>
+                <br />
+              </div>
+              <div className="SecontText">
+                It's great to have you in our website!
+              </div>
+              <br />
+              <div className="FormControl">
+                <div>Email:</div>
+                <input
                   value={userName}
                   onChange={(e) => setUserName(e.target.value)}
                 />
               </div>
-            </div>
-          </Form.Group>
-
-          <Form.Group>
-            <div className="row">
-              {" "}
-              <h4 className="col-5">Password:</h4>
-              <div className="col-7">
-                <Form.Control
-                  type="password"
+              <div className="FormControl">
+                <div>password:</div>
+                <input
                   value={password}
                   onChange={(e) => setPassword(e.target.value)}
                 />
               </div>
+              <div className="ButtonsForm row">
+                <button className="col-5 fButton" onClick={handlebutton}>
+                  Login
+                </button>
+                <button className="col-5 ml-2 sButton">Create Account</button>
+              </div>
             </div>
-          </Form.Group>
-          <Button
-            className="box-3"
-            block
-            size="lg"
-            type="button"
-            disabled={!validateForm()}
-            onClick={handlebutton}
-            style={{ backgroundColor: "rgb(85, 86, 126)" }}
-          >
-            <div className="btn btn-three">
-              <span>Login</span>
-            </div>
-          </Button>
-
-          <Button
-            block
-            size="lg"
-            type="button"
-            style={{ backgroundColor: "rgb(85, 86, 126)" }}
-            onClick={() => {
-              history.push("/RegisterPage");
-            }}
-          >
-            Register
-          </Button>
-        </Form>
+          </div>
+          <div className="col-5">
+            <img src="https://images.unsplash.com/photo-1470115636492-6d2b56f9146d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MjB8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60" />
+          </div>
+        </div>
       </div>
     </div>
   );
